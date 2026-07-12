@@ -39,7 +39,7 @@ const steps = [
   },
   {
     icon: Sparkles,
-    title: "Filter the mood",
+    title: "Search the mood",
     text: "Find famous stops, heritage pujas, theme pandals, or quieter gems.",
   },
   {
@@ -225,8 +225,8 @@ export default function Home() {
               <p className="mt-2 text-sm leading-6 text-muted-foreground">
                 Puja routes, traffic rules, crowd controls, entry gates, and
                 timings can change quickly during the festival. Verify locally
-                before travelling, follow official instructions, and treat sample
-                records as planning placeholders until verified.
+                before travelling, follow official instructions, and treat
+                unverified records as planning references.
               </p>
             </div>
           </div>

@@ -1,148 +1,344 @@
 [
   {
-    "slug": "sample-north-kolkata-classics",
+    "slug": "north-kolkata-classics",
     "year": 2026,
-    "name": { "en": "[SAMPLE] North Kolkata Classics", "bn": "[SAMPLE] উত্তর কলকাতা ক্লাসিকস" },
-    "summary": { "en": "Sample route through famous North Kolkata examples.", "bn": "উত্তর কলকাতার বিখ্যাত নমুনা পুজোগুলির রুট।" },
-    "description": { "en": "Development-only route. Stop order and timings are not verified for Puja 2026.", "bn": "শুধু উন্নয়নের রুট। ২০২৬ সালের স্টপ অর্ডার ও সময় যাচাই করা নয়।" },
+    "name": {
+      "en": "North Kolkata Classics",
+      "bn": "উত্তর কলকাতা ক্লাসিকস"
+    },
+    "summary": {
+      "en": "route through famous North Kolkata examples.",
+      "bn": "উত্তর কলকাতার বিখ্যাত নমুনা পুজোগুলির রুট।"
+    },
+    "description": {
+      "en": "Development-only route. Stop order and timings are not verified for Puja 2026.",
+      "bn": "শুধু উন্নয়নের রুট। ২০২৬ সালের স্টপ অর্ডার ও সময় যাচাই করা নয়।"
+    },
     "stops": [
-      { "pujaSlug": "sample-sovabazar-rajbari-cluster", "sequence": 1, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-ahiritola-sarbojanin", "sequence": 2, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-kumartuli-park", "sequence": 3, "dwellMinutes": 30 },
-      { "pujaSlug": "sample-bagbazar-sarbojanin", "sequence": 4, "dwellMinutes": 30 }
+      {
+        "pujaSlug": "sovabazar-rajbari-cluster",
+        "sequence": 1,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "ahiritola-sarbojanin",
+        "sequence": 2,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "kumartuli-park",
+        "sequence": 3,
+        "dwellMinutes": 30
+      },
+      {
+        "pujaSlug": "bagbazar-sarbojanin",
+        "sequence": 4,
+        "dwellMinutes": 30
+      }
     ],
     "travelMode": "mixed",
     "durationMinutes": 180,
     "distanceMeters": 4200,
     "featured": true,
-    "tags": ["sample", "north", "famous"],
+    "tags": [
+      "north",
+      "famous"
+    ],
     "zone": "north-kolkata"
   },
   {
-    "slug": "sample-north-kolkata-famous-puja-route",
+    "slug": "north-kolkata-famous-puja-route",
     "year": 2026,
-    "name": { "en": "[SAMPLE] North Kolkata Famous Puja Route", "bn": "[SAMPLE] উত্তর কলকাতা বিখ্যাত পুজো রুট" },
-    "summary": { "en": "Sample famous-stop route for North Kolkata.", "bn": "উত্তর কলকাতার বিখ্যাত নমুনা পুজোর রুট।" },
-    "description": { "en": "Development-only route; verify access and timings before use.", "bn": "শুধু উন্নয়নের রুট; ব্যবহারের আগে প্রবেশ ও সময় যাচাই করুন।" },
+    "name": {
+      "en": "North Kolkata Famous Puja Route",
+      "bn": "উত্তর কলকাতা বিখ্যাত পুজো রুট"
+    },
+    "summary": {
+      "en": "famous-stop route for North Kolkata.",
+      "bn": "উত্তর কলকাতার বিখ্যাত নমুনা পুজোর রুট।"
+    },
+    "description": {
+      "en": "Development-only route; verify access and timings before use.",
+      "bn": "শুধু উন্নয়নের রুট; ব্যবহারের আগে প্রবেশ ও সময় যাচাই করুন।"
+    },
     "stops": [
-      { "pujaSlug": "sample-bagbazar-sarbojanin", "sequence": 1, "dwellMinutes": 30 },
-      { "pujaSlug": "sample-kumartuli-park", "sequence": 2, "dwellMinutes": 30 },
-      { "pujaSlug": "sample-ahiritola-sarbojanin", "sequence": 3, "dwellMinutes": 25 }
+      {
+        "pujaSlug": "bagbazar-sarbojanin",
+        "sequence": 1,
+        "dwellMinutes": 30
+      },
+      {
+        "pujaSlug": "kumartuli-park",
+        "sequence": 2,
+        "dwellMinutes": 30
+      },
+      {
+        "pujaSlug": "ahiritola-sarbojanin",
+        "sequence": 3,
+        "dwellMinutes": 25
+      }
     ],
     "travelMode": "mixed",
     "durationMinutes": 150,
     "distanceMeters": 3600,
     "featured": true,
-    "tags": ["sample", "north", "famous"],
+    "tags": [
+      "north",
+      "famous"
+    ],
     "zone": "north-kolkata"
   },
   {
-    "slug": "sample-south-kolkata-evening-run",
+    "slug": "south-kolkata-evening-run",
     "year": 2026,
-    "name": { "en": "[SAMPLE] South Kolkata Evening Run", "bn": "[SAMPLE] দক্ষিণ কলকাতা সন্ধ্যা রুট" },
-    "summary": { "en": "Sample route for popular South Kolkata development records.", "bn": "দক্ষিণ কলকাতার জনপ্রিয় নমুনা রেকর্ডের রুট।" },
-    "description": { "en": "Development-only route. Verify current crowd and traffic rules before publishing.", "bn": "শুধু উন্নয়নের রুট। প্রকাশের আগে বর্তমান ভিড় ও ট্রাফিক নিয়ম যাচাই করুন।" },
+    "name": {
+      "en": "South Kolkata Evening Run",
+      "bn": "দক্ষিণ কলকাতা সন্ধ্যা রুট"
+    },
+    "summary": {
+      "en": "route for popular South Kolkata development records.",
+      "bn": "দক্ষিণ কলকাতার জনপ্রিয় নমুনা রেকর্ডের রুট।"
+    },
+    "description": {
+      "en": "Development-only route. Verify current crowd and traffic rules before publishing.",
+      "bn": "শুধু উন্নয়নের রুট। প্রকাশের আগে বর্তমান ভিড় ও ট্রাফিক নিয়ম যাচাই করুন।"
+    },
     "stops": [
-      { "pujaSlug": "sample-ballygunge-cultural", "sequence": 1, "dwellMinutes": 30 },
-      { "pujaSlug": "sample-ekdalia-evergreen", "sequence": 2, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-deshapriya-park", "sequence": 3, "dwellMinutes": 35 },
-      { "pujaSlug": "sample-jodhpur-park-95-pally", "sequence": 4, "dwellMinutes": 30 }
+      {
+        "pujaSlug": "ballygunge-cultural",
+        "sequence": 1,
+        "dwellMinutes": 30
+      },
+      {
+        "pujaSlug": "ekdalia-evergreen",
+        "sequence": 2,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "deshapriya-park",
+        "sequence": 3,
+        "dwellMinutes": 35
+      },
+      {
+        "pujaSlug": "jodhpur-park-95-pally",
+        "sequence": 4,
+        "dwellMinutes": 30
+      }
     ],
     "travelMode": "mixed",
     "durationMinutes": 220,
     "distanceMeters": 7600,
     "featured": true,
-    "tags": ["sample", "south", "famous"],
+    "tags": [
+      "south",
+      "famous"
+    ],
     "zone": "south-kolkata"
   },
   {
-    "slug": "sample-south-kolkata-family-route",
+    "slug": "south-kolkata-family-route",
     "year": 2026,
-    "name": { "en": "[SAMPLE] South Kolkata Family Route", "bn": "[SAMPLE] দক্ষিণ কলকাতা পরিবার রুট" },
-    "summary": { "en": "Sample family-friendly South Kolkata route.", "bn": "দক্ষিণ কলকাতার পরিবার-বান্ধব নমুনা রুট।" },
-    "description": { "en": "Development-only route around accessible, calmer sample stops.", "bn": "অ্যাক্সেসিবল ও তুলনামূলক শান্ত নমুনা স্টপের রুট।" },
+    "name": {
+      "en": "South Kolkata Family Route",
+      "bn": "দক্ষিণ কলকাতা পরিবার রুট"
+    },
+    "summary": {
+      "en": "family-friendly South Kolkata route.",
+      "bn": "দক্ষিণ কলকাতার পরিবার-বান্ধব নমুনা রুট।"
+    },
+    "description": {
+      "en": "Accessible, calmer stops.",
+      "bn": "অ্যাক্সেসিবল ও তুলনামূলক শান্ত নমুনা স্টপের রুট।"
+    },
     "stops": [
-      { "pujaSlug": "sample-maddox-square", "sequence": 1, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-hindustan-park", "sequence": 2, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-jodhpur-park-95-pally", "sequence": 3, "dwellMinutes": 30 }
+      {
+        "pujaSlug": "maddox-square",
+        "sequence": 1,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "hindustan-park",
+        "sequence": 2,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "jodhpur-park-95-pally",
+        "sequence": 3,
+        "dwellMinutes": 30
+      }
     ],
     "travelMode": "mixed",
     "durationMinutes": 160,
     "distanceMeters": 6200,
     "featured": false,
-    "tags": ["sample", "south", "family-friendly"],
+    "tags": [
+      "south",
+      "family-friendly"
+    ],
     "zone": "south-kolkata"
   },
   {
-    "slug": "sample-short-two-hour-route",
+    "slug": "short-two-hour-route",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Short Two-Hour Route", "bn": "[SAMPLE] ছোট দুই ঘণ্টার রুট" },
-    "summary": { "en": "Sample compact route for a short evening.", "bn": "ছোট সন্ধ্যার জন্য কমপ্যাক্ট নমুনা রুট।" },
-    "description": { "en": "Development-only route designed for fewer stops.", "bn": "কম স্টপের জন্য তৈরি উন্নয়ন নমুনা রুট।" },
+    "name": {
+      "en": "Short Two-Hour Route",
+      "bn": "ছোট দুই ঘণ্টার রুট"
+    },
+    "summary": {
+      "en": "compact route for a short evening.",
+      "bn": "ছোট সন্ধ্যার জন্য কমপ্যাক্ট নমুনা রুট।"
+    },
+    "description": {
+      "en": "Development-only route designed for fewer stops.",
+      "bn": "কম স্টপের জন্য তৈরি উন্নয়ন নমুনা রুট।"
+    },
     "stops": [
-      { "pujaSlug": "sample-ekdalia-evergreen", "sequence": 1, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-ballygunge-cultural", "sequence": 2, "dwellMinutes": 30 }
+      {
+        "pujaSlug": "ekdalia-evergreen",
+        "sequence": 1,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "ballygunge-cultural",
+        "sequence": 2,
+        "dwellMinutes": 30
+      }
     ],
     "travelMode": "mixed",
     "durationMinutes": 115,
     "distanceMeters": 2100,
     "featured": false,
-    "tags": ["sample", "short"],
+    "tags": [
+      "short"
+    ],
     "zone": "south-kolkata"
   },
   {
-    "slug": "sample-metro-friendly-route",
+    "slug": "metro-friendly-route",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Metro-Friendly Route", "bn": "[SAMPLE] মেট্রো-বান্ধব রুট" },
-    "summary": { "en": "Sample route anchored around metro access.", "bn": "মেট্রো অ্যাক্সেস ঘিরে নমুনা রুট।" },
-    "description": { "en": "Development-only route; metro operations should be verified locally.", "bn": "শুধু উন্নয়নের রুট; মেট্রো পরিষেবা স্থানীয়ভাবে যাচাই করুন।" },
+    "name": {
+      "en": "Metro-Friendly Route",
+      "bn": "মেট্রো-বান্ধব রুট"
+    },
+    "summary": {
+      "en": "route anchored around metro access.",
+      "bn": "মেট্রো অ্যাক্সেস ঘিরে নমুনা রুট।"
+    },
+    "description": {
+      "en": "Development-only route; metro operations should be verified locally.",
+      "bn": "শুধু উন্নয়নের রুট; মেট্রো পরিষেবা স্থানীয়ভাবে যাচাই করুন।"
+    },
     "stops": [
-      { "pujaSlug": "sample-sovabazar-rajbari-cluster", "sequence": 1, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-bagbazar-sarbojanin", "sequence": 2, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-deshapriya-park", "sequence": 3, "dwellMinutes": 30 }
+      {
+        "pujaSlug": "sovabazar-rajbari-cluster",
+        "sequence": 1,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "bagbazar-sarbojanin",
+        "sequence": 2,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "deshapriya-park",
+        "sequence": 3,
+        "dwellMinutes": 30
+      }
     ],
     "travelMode": "metro",
     "durationMinutes": 210,
     "distanceMeters": 11200,
     "featured": true,
-    "tags": ["sample", "metro-friendly"],
+    "tags": [
+      "metro-friendly"
+    ],
     "zone": "north-kolkata"
   },
   {
-    "slug": "sample-photography-route",
+    "slug": "photography-route",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Photography Route", "bn": "[SAMPLE] ফটোগ্রাফি রুট" },
-    "summary": { "en": "Sample route for visually distinct stops.", "bn": "চোখে পড়ার মতো নমুনা স্টপের রুট।" },
-    "description": { "en": "Development-only route; respect crowd rules and photography restrictions.", "bn": "শুধু উন্নয়নের রুট; ভিড় ও ফটোগ্রাফি নিয়ম মানুন।" },
+    "name": {
+      "en": "Photography Route",
+      "bn": "ফটোগ্রাফি রুট"
+    },
+    "summary": {
+      "en": "route for visually distinct stops.",
+      "bn": "চোখে পড়ার মতো নমুনা স্টপের রুট।"
+    },
+    "description": {
+      "en": "Development-only route; respect crowd rules and photography restrictions.",
+      "bn": "শুধু উন্নয়নের রুট; ভিড় ও ফটোগ্রাফি নিয়ম মানুন।"
+    },
     "stops": [
-      { "pujaSlug": "sample-kumartuli-park", "sequence": 1, "dwellMinutes": 30 },
-      { "pujaSlug": "sample-ahiritola-sarbojanin", "sequence": 2, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-deshapriya-park", "sequence": 3, "dwellMinutes": 30 }
+      {
+        "pujaSlug": "kumartuli-park",
+        "sequence": 1,
+        "dwellMinutes": 30
+      },
+      {
+        "pujaSlug": "ahiritola-sarbojanin",
+        "sequence": 2,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "deshapriya-park",
+        "sequence": 3,
+        "dwellMinutes": 30
+      }
     ],
     "travelMode": "mixed",
     "durationMinutes": 240,
     "distanceMeters": 12500,
     "featured": false,
-    "tags": ["sample", "photography"],
+    "tags": [
+      "photography"
+    ],
     "zone": "north-kolkata"
   },
   {
-    "slug": "sample-hidden-gem-mixed-loop",
+    "slug": "hidden-gem-mixed-loop",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Hidden-Gem Mixed Loop", "bn": "[SAMPLE] হিডেন-জেম মিক্সড লুপ" },
-    "summary": { "en": "Sample route highlighting lower-score development examples.", "bn": "কম স্কোরের উন্নয়ন নমুনা ঘিরে রুট।" },
-    "description": { "en": "Sample-only route for testing filters and route pages.", "bn": "ফিল্টার ও রুট পেজ পরীক্ষার জন্য নমুনা রুট।" },
+    "name": {
+      "en": "Hidden-Gem Mixed Loop",
+      "bn": "হিডেন-জেম মিক্সড লুপ"
+    },
+    "summary": {
+      "en": "route highlighting lower-score development examples.",
+      "bn": "কম স্কোরের উন্নয়ন নমুনা ঘিরে রুট।"
+    },
+    "description": {
+      "en": "Sample-only route for testing filters and route pages.",
+      "bn": "ফিল্টার ও রুট পেজ পরীক্ষার জন্য নমুনা রুট।"
+    },
     "stops": [
-      { "pujaSlug": "sample-tala-baroari", "sequence": 1, "dwellMinutes": 20 },
-      { "pujaSlug": "sample-hatibagan-nabin-pally", "sequence": 2, "dwellMinutes": 20 },
-      { "pujaSlug": "sample-hindustan-park", "sequence": 3, "dwellMinutes": 25 },
-      { "pujaSlug": "sample-maddox-square", "sequence": 4, "dwellMinutes": 25 }
+      {
+        "pujaSlug": "tala-baroari",
+        "sequence": 1,
+        "dwellMinutes": 20
+      },
+      {
+        "pujaSlug": "hatibagan-nabin-pally",
+        "sequence": 2,
+        "dwellMinutes": 20
+      },
+      {
+        "pujaSlug": "hindustan-park",
+        "sequence": 3,
+        "dwellMinutes": 25
+      },
+      {
+        "pujaSlug": "maddox-square",
+        "sequence": 4,
+        "dwellMinutes": 25
+      }
     ],
     "travelMode": "mixed",
     "durationMinutes": 260,
     "distanceMeters": 13200,
     "featured": false,
-    "tags": ["sample", "hidden-gem"],
+    "tags": [
+      "hidden-gem"
+    ],
     "zone": "north-kolkata"
   }
 ]

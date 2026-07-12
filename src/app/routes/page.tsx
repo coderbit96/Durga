@@ -38,7 +38,8 @@ export default async function RoutesPage() {
           Kolkata Puja routes by mood, time, and movement.
         </h1>
         <p className="text-muted-foreground">
-          Sample routes are development data until verified for the current festival year.
+          Suggested routes are planning aids. Verify access, timings, and crowd
+          controls during the festival.
         </p>
       </div>
       <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">

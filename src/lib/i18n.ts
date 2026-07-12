@@ -18,7 +18,7 @@ const dictionaries = {
     "language.en": "English",
     "language.bn": "বাংলা",
     "common.verified": "Verified",
-    "common.unverified": "Unverified sample",
+    "common.unverified": "Pending verification",
     "common.disclaimer":
       "Traffic, barricades, police instructions, and temporary access rules can change during Durga Puja.",
   },

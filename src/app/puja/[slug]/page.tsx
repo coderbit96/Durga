@@ -161,7 +161,7 @@ export default async function PujaDetailsPage({ params }: PujaPageProps) {
                 <Badge key={category}>{category}</Badge>
               ))}
               <Badge variant={puja.verified ? "teal" : "default"}>
-                {puja.verified ? "Verified" : "Unverified sample"}
+                {puja.verified ? "Verified" : "Pending verification"}
               </Badge>
             </div>
             <div className="space-y-3">

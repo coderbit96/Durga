@@ -1,14 +1,14 @@
 [
   {
-    "slug": "sample-bagbazar-sarbojanin",
+    "slug": "bagbazar-sarbojanin",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Bagbazar Sarbojanin",
-      "bn": "[SAMPLE] বাগবাজার সার্বজনীন"
+      "en": "Bagbazar Sarbojanin",
+      "bn": "বাগবাজার সার্বজনীন"
     },
     "committeeName": {
-      "en": "[SAMPLE] Bagbazar committee placeholder",
-      "bn": "[SAMPLE] বাগবাজার কমিটি প্লেসহোল্ডার"
+      "en": "Bagbazar committee committee",
+      "bn": "বাগবাজার কমিটি প্লেসহোল্ডার"
     },
     "zone": "north-kolkata",
     "locality": "Bagbazar",
@@ -18,14 +18,13 @@
       "barowari"
     ],
     "tags": [
-      "sample",
       "famous",
       "north",
       "heritage"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Traditional sabeki idol and heritage north Kolkata ritual atmosphere",
-      "bn": "[SAMPLE] Known style: Traditional sabeki idol and heritage north Kolkata ritual atmosphere"
+      "en": "Known style: Traditional sabeki idol and heritage north Kolkata ritual atmosphere",
+      "bn": "Known style: Traditional sabeki idol and heritage north Kolkata ritual atmosphere"
     },
     "themeDescription": {
       "en": "Traditional sabeki idol and heritage north Kolkata ritual atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -49,15 +48,15 @@
     "nearestMetro": "Shyambazar",
     "nearestRailwayStation": "Bagbazar",
     "recommendedEntry": {
-      "en": "Sample main-lane entry",
+      "en": "main-lane entry",
       "bn": "নমুনা মূল রাস্তা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample riverside exit",
+      "en": "riverside exit",
       "bn": "নমুনা নদীপারের প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: early evening",
+      "en": "suggestion: early evening",
       "bn": "নমুনা পরামর্শ: সন্ধ্যার শুরু"
     },
     "accessibility": {
@@ -65,7 +64,7 @@
       "seniorFriendly": true,
       "crowdLevel": "high",
       "notes": {
-        "en": "Sample accessibility note; verify before publishing.",
+        "en": "accessibility note; verify before publishing.",
         "bn": "নমুনা অ্যাক্সেসিবিলিটি নোট; প্রকাশের আগে যাচাই করুন।"
       }
     },
@@ -75,21 +74,21 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-kumartuli-park",
+    "slug": "kumartuli-park",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Kumartuli Park",
-      "bn": "[SAMPLE] কুমোরটুলি পার্ক"
+      "en": "Kumartuli Park",
+      "bn": "কুমোরটুলি পার্ক"
     },
     "committeeName": {
-      "en": "[SAMPLE] Kumartuli Park placeholder",
-      "bn": "[SAMPLE] কুমোরটুলি পার্ক প্লেসহোল্ডার"
+      "en": "Kumartuli Park committee",
+      "bn": "কুমোরটুলি পার্ক প্লেসহোল্ডার"
     },
     "zone": "north-kolkata",
     "locality": "Kumartuli",
@@ -98,13 +97,12 @@
       "community"
     ],
     "tags": [
-      "sample",
       "famous",
       "artisan-quarter"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Artisan-quarter theme rooted in Kumartuli idol-making heritage",
-      "bn": "[SAMPLE] Known style: Artisan-quarter theme rooted in Kumartuli idol-making heritage"
+      "en": "Known style: Artisan-quarter theme rooted in Kumartuli idol-making heritage",
+      "bn": "Known style: Artisan-quarter theme rooted in Kumartuli idol-making heritage"
     },
     "themeDescription": {
       "en": "Artisan-quarter theme rooted in Kumartuli idol-making heritage. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -128,15 +126,15 @@
     "nearestMetro": "Sovabazar Sutanuti",
     "nearestRailwayStation": "Bagbazar",
     "recommendedEntry": {
-      "en": "Sample entry from Rabindra Sarani side",
+      "en": "entry from Rabindra Sarani side",
       "bn": "রবীন্দ্র সরণি দিক থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Sovabazar",
+      "en": "exit toward Sovabazar",
       "bn": "শোভাবাজারের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: afternoon",
+      "en": "suggestion: afternoon",
       "bn": "নমুনা পরামর্শ: বিকেল"
     },
     "accessibility": {
@@ -150,17 +148,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-ahiritola-sarbojanin",
+    "slug": "ahiritola-sarbojanin",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Ahiritola Sarbojanin",
-      "bn": "[SAMPLE] আহিরীটোলা সার্বজনীন"
+      "en": "Ahiritola Sarbojanin",
+      "bn": "আহিরীটোলা সার্বজনীন"
     },
     "zone": "north-kolkata",
     "locality": "Ahiritola",
@@ -169,13 +167,12 @@
       "barowari"
     ],
     "tags": [
-      "sample",
       "famous",
       "north"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: North Kolkata theme-art pandal near the riverfront heritage belt",
-      "bn": "[SAMPLE] Known style: North Kolkata theme-art pandal near the riverfront heritage belt"
+      "en": "Known style: North Kolkata theme-art pandal near the riverfront heritage belt",
+      "bn": "Known style: North Kolkata theme-art pandal near the riverfront heritage belt"
     },
     "themeDescription": {
       "en": "North Kolkata theme-art pandal near the riverfront heritage belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -199,15 +196,15 @@
     "nearestMetro": "Sovabazar Sutanuti",
     "nearestRailwayStation": "Bagbazar",
     "recommendedEntry": {
-      "en": "Sample entry from B K Pal Avenue",
+      "en": "entry from B K Pal Avenue",
       "bn": "বি কে পাল অ্যাভিনিউ দিক থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Girish Park",
+      "en": "exit toward Girish Park",
       "bn": "গিরিশ পার্কের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: late afternoon",
+      "en": "suggestion: late afternoon",
       "bn": "নমুনা পরামর্শ: বিকেলের শেষ ভাগ"
     },
     "accessibility": {
@@ -221,17 +218,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-sovabazar-rajbari-cluster",
+    "slug": "sovabazar-rajbari-cluster",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Sovabazar Rajbari Cluster",
-      "bn": "[SAMPLE] শোভাবাজার রাজবাড়ি ক্লাস্টার"
+      "en": "Sovabazar Rajbari Cluster",
+      "bn": "শোভাবাজার রাজবাড়ি ক্লাস্টার"
     },
     "zone": "north-kolkata",
     "locality": "Sovabazar",
@@ -241,13 +238,12 @@
       "traditional"
     ],
     "tags": [
-      "sample",
       "famous",
       "bonedi"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture",
-      "bn": "[SAMPLE] Known style: Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture"
+      "en": "Known style: Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture",
+      "bn": "Known style: Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture"
     },
     "themeDescription": {
       "en": "Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -271,15 +267,15 @@
     "nearestMetro": "Sovabazar Sutanuti",
     "nearestRailwayStation": "Bagbazar",
     "recommendedEntry": {
-      "en": "Sample entry from metro side",
+      "en": "entry from metro side",
       "bn": "মেট্রো দিক থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Chitpur Road",
+      "en": "exit toward Chitpur Road",
       "bn": "চিতপুর রোডের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: morning rituals",
+      "en": "suggestion: morning rituals",
       "bn": "নমুনা পরামর্শ: সকালের আচার"
     },
     "accessibility": {
@@ -293,17 +289,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-tala-baroari",
+    "slug": "tala-baroari",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Tala Baroari",
-      "bn": "[SAMPLE] টালা বারোয়ারি"
+      "en": "Tala Baroari",
+      "bn": "টালা বারোয়ারি"
     },
     "zone": "north-kolkata",
     "locality": "Tala",
@@ -312,13 +308,12 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "hidden-gem",
       "north"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Neighborhood theme puja with a quieter north Kolkata discovery feel",
-      "bn": "[SAMPLE] Known style: Neighborhood theme puja with a quieter north Kolkata discovery feel"
+      "en": "Known style: Neighborhood theme puja with a quieter north Kolkata discovery feel",
+      "bn": "Known style: Neighborhood theme puja with a quieter north Kolkata discovery feel"
     },
     "themeDescription": {
       "en": "Neighborhood theme puja with a quieter north Kolkata discovery feel. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -342,15 +337,15 @@
     "nearestMetro": "Belgachia",
     "nearestRailwayStation": "Tala",
     "recommendedEntry": {
-      "en": "Sample entry from Tala Park side",
+      "en": "entry from Tala Park side",
       "bn": "টালা পার্ক দিক থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Belgachia",
+      "en": "exit toward Belgachia",
       "bn": "বেলগাছিয়ার দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: early night",
+      "en": "suggestion: early night",
       "bn": "নমুনা পরামর্শ: রাতের শুরু"
     },
     "accessibility": {
@@ -364,17 +359,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-hatibagan-nabin-pally",
+    "slug": "hatibagan-nabin-pally",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Hatibagan Nabin Pally",
-      "bn": "[SAMPLE] হাতিবাগান নবীন পল্লী"
+      "en": "Hatibagan Nabin Pally",
+      "bn": "হাতিবাগান নবীন পল্লী"
     },
     "zone": "north-kolkata",
     "locality": "Hatibagan",
@@ -383,13 +378,12 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "hidden-gem",
       "market-area"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Market-neighborhood theme puja around the Hatibagan-Shyambazar belt",
-      "bn": "[SAMPLE] Known style: Market-neighborhood theme puja around the Hatibagan-Shyambazar belt"
+      "en": "Known style: Market-neighborhood theme puja around the Hatibagan-Shyambazar belt",
+      "bn": "Known style: Market-neighborhood theme puja around the Hatibagan-Shyambazar belt"
     },
     "themeDescription": {
       "en": "Market-neighborhood theme puja around the Hatibagan-Shyambazar belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -413,15 +407,15 @@
     "nearestMetro": "Shyambazar",
     "nearestRailwayStation": "Bagbazar",
     "recommendedEntry": {
-      "en": "Sample entry from market side",
+      "en": "entry from market side",
       "bn": "বাজার দিক থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Shyambazar",
+      "en": "exit toward Shyambazar",
       "bn": "শ্যামবাজারের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: before peak evening",
+      "en": "suggestion: before peak evening",
       "bn": "নমুনা পরামর্শ: ভিড়ের আগের সন্ধ্যা"
     },
     "accessibility": {
@@ -435,17 +429,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-deshapriya-park",
+    "slug": "deshapriya-park",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Deshapriya Park",
-      "bn": "[SAMPLE] দেশপ্রিয় পার্ক"
+      "en": "Deshapriya Park",
+      "bn": "দেশপ্রিয় পার্ক"
     },
     "zone": "south-kolkata",
     "locality": "Rashbehari",
@@ -455,13 +449,12 @@
       "award-winning"
     ],
     "tags": [
-      "sample",
       "famous",
       "south"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Large open-ground spectacle and high-footfall south Kolkata theme presentation",
-      "bn": "[SAMPLE] Known style: Large open-ground spectacle and high-footfall south Kolkata theme presentation"
+      "en": "Known style: Large open-ground spectacle and high-footfall south Kolkata theme presentation",
+      "bn": "Known style: Large open-ground spectacle and high-footfall south Kolkata theme presentation"
     },
     "themeDescription": {
       "en": "Large open-ground spectacle and high-footfall south Kolkata theme presentation. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -485,15 +478,15 @@
     "nearestMetro": "Kalighat",
     "nearestRailwayStation": "Lake Gardens",
     "recommendedEntry": {
-      "en": "Sample entry from Rashbehari Avenue",
+      "en": "entry from Rashbehari Avenue",
       "bn": "রশবিহারী অ্যাভিনিউ থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Southern Avenue",
+      "en": "exit toward Southern Avenue",
       "bn": "সাদার্ন অ্যাভিনিউয়ের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: late night",
+      "en": "suggestion: late night",
       "bn": "নমুনা পরামর্শ: রাত গভীর"
     },
     "accessibility": {
@@ -507,17 +500,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-ballygunge-cultural",
+    "slug": "ballygunge-cultural",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Ballygunge Cultural",
-      "bn": "[SAMPLE] বালিগঞ্জ কালচারাল"
+      "en": "Ballygunge Cultural",
+      "bn": "বালিগঞ্জ কালচারাল"
     },
     "zone": "south-kolkata",
     "locality": "Ballygunge",
@@ -526,14 +519,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "organized"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Major south Kolkata theme-art puja with organized visitor flow",
-      "bn": "[SAMPLE] Known style: Major south Kolkata theme-art puja with organized visitor flow"
+      "en": "Known style: Major south Kolkata theme-art puja with organized visitor flow",
+      "bn": "Known style: Major south Kolkata theme-art puja with organized visitor flow"
     },
     "themeDescription": {
       "en": "Major south Kolkata theme-art puja with organized visitor flow. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -557,15 +549,15 @@
     "nearestMetro": "Kalighat",
     "nearestRailwayStation": "Ballygunge Junction",
     "recommendedEntry": {
-      "en": "Sample entry from Gariahat side",
+      "en": "entry from Gariahat side",
       "bn": "গড়িয়াহাট দিক থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Ballygunge station",
+      "en": "exit toward Ballygunge station",
       "bn": "বালিগঞ্জ স্টেশনের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: evening",
+      "en": "suggestion: evening",
       "bn": "নমুনা পরামর্শ: সন্ধ্যা"
     },
     "accessibility": {
@@ -579,17 +571,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-jodhpur-park-95-pally",
+    "slug": "jodhpur-park-95-pally",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Jodhpur Park 95 Pally",
-      "bn": "[SAMPLE] যোধপুর পার্ক ৯৫ পল্লী"
+      "en": "Jodhpur Park 95 Pally",
+      "bn": "যোধপুর পার্ক ৯৫ পল্লী"
     },
     "zone": "south-kolkata",
     "locality": "Jodhpur Park",
@@ -598,13 +590,12 @@
       "family-friendly"
     ],
     "tags": [
-      "sample",
       "famous",
       "south"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: South Kolkata theme-art stop around the Jodhpur Park lake neighborhood",
-      "bn": "[SAMPLE] Known style: South Kolkata theme-art stop around the Jodhpur Park lake neighborhood"
+      "en": "Known style: South Kolkata theme-art stop around the Jodhpur Park lake neighborhood",
+      "bn": "Known style: South Kolkata theme-art stop around the Jodhpur Park lake neighborhood"
     },
     "themeDescription": {
       "en": "South Kolkata theme-art stop around the Jodhpur Park lake neighborhood. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -628,15 +619,15 @@
     "nearestMetro": "Rabindra Sarobar",
     "nearestRailwayStation": "Dhakuria",
     "recommendedEntry": {
-      "en": "Sample entry from Jodhpur Park main road",
+      "en": "entry from Jodhpur Park main road",
       "bn": "যোধপুর পার্ক মেইন রোড থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Dhakuria",
+      "en": "exit toward Dhakuria",
       "bn": "ঢাকুরিয়ার দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: post-dinner",
+      "en": "suggestion: post-dinner",
       "bn": "নমুনা পরামর্শ: রাতের খাবারের পরে"
     },
     "accessibility": {
@@ -650,17 +641,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-ekdalia-evergreen",
+    "slug": "ekdalia-evergreen",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Ekdalia Evergreen",
-      "bn": "[SAMPLE] একডালিয়া এভারগ্রিন"
+      "en": "Ekdalia Evergreen",
+      "bn": "একডালিয়া এভারগ্রিন"
     },
     "zone": "south-kolkata",
     "locality": "Gariahat",
@@ -669,13 +660,12 @@
       "community"
     ],
     "tags": [
-      "sample",
       "famous",
       "gariahat"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Traditional/sabeki presentation and classic Gariahat puja atmosphere",
-      "bn": "[SAMPLE] Known style: Traditional/sabeki presentation and classic Gariahat puja atmosphere"
+      "en": "Known style: Traditional/sabeki presentation and classic Gariahat puja atmosphere",
+      "bn": "Known style: Traditional/sabeki presentation and classic Gariahat puja atmosphere"
     },
     "themeDescription": {
       "en": "Traditional/sabeki presentation and classic Gariahat puja atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -699,15 +689,15 @@
     "nearestMetro": "Kalighat",
     "nearestRailwayStation": "Ballygunge Junction",
     "recommendedEntry": {
-      "en": "Sample entry from Gariahat Road",
+      "en": "entry from Gariahat Road",
       "bn": "গড়িয়াহাট রোড থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Ballygunge",
+      "en": "exit toward Ballygunge",
       "bn": "বালিগঞ্জের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: late evening",
+      "en": "suggestion: late evening",
       "bn": "নমুনা পরামর্শ: সন্ধ্যার শেষ ভাগ"
     },
     "accessibility": {
@@ -721,17 +711,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-hindustan-park",
+    "slug": "hindustan-park",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Hindustan Park",
-      "bn": "[SAMPLE] হিন্দুস্তান পার্ক"
+      "en": "Hindustan Park",
+      "bn": "হিন্দুস্তান পার্ক"
     },
     "zone": "south-kolkata",
     "locality": "Hindustan Park",
@@ -740,13 +730,12 @@
       "community"
     ],
     "tags": [
-      "sample",
       "hidden-gem",
       "south"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Contemporary theme-art pandal in a walkable south Kolkata cluster",
-      "bn": "[SAMPLE] Known style: Contemporary theme-art pandal in a walkable south Kolkata cluster"
+      "en": "Known style: Contemporary theme-art pandal in a walkable south Kolkata cluster",
+      "bn": "Known style: Contemporary theme-art pandal in a walkable south Kolkata cluster"
     },
     "themeDescription": {
       "en": "Contemporary theme-art pandal in a walkable south Kolkata cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -770,15 +759,15 @@
     "nearestMetro": "Kalighat",
     "nearestRailwayStation": "Ballygunge Junction",
     "recommendedEntry": {
-      "en": "Sample entry from Gariahat side",
+      "en": "entry from Gariahat side",
       "bn": "গড়িয়াহাট দিক থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Lake Road",
+      "en": "exit toward Lake Road",
       "bn": "লেক রোডের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: early evening",
+      "en": "suggestion: early evening",
       "bn": "নমুনা পরামর্শ: সন্ধ্যার শুরু"
     },
     "accessibility": {
@@ -792,17 +781,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-maddox-square",
+    "slug": "maddox-square",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Maddox Square",
-      "bn": "[SAMPLE] ম্যাডক্স স্কোয়ার"
+      "en": "Maddox Square",
+      "bn": "ম্যাডক্স স্কোয়ার"
     },
     "zone": "south-kolkata",
     "locality": "Ballygunge",
@@ -812,13 +801,12 @@
       "community"
     ],
     "tags": [
-      "sample",
       "hidden-gem",
       "adda"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Family-friendly adda, open green setting, and traditional festive ambience",
-      "bn": "[SAMPLE] Known style: Family-friendly adda, open green setting, and traditional festive ambience"
+      "en": "Known style: Family-friendly adda, open green setting, and traditional festive ambience",
+      "bn": "Known style: Family-friendly adda, open green setting, and traditional festive ambience"
     },
     "themeDescription": {
       "en": "Family-friendly adda, open green setting, and traditional festive ambience. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -842,15 +830,15 @@
     "nearestMetro": "Rabindra Sadan",
     "nearestRailwayStation": "Ballygunge Junction",
     "recommendedEntry": {
-      "en": "Sample entry from Ballygunge Circular Road",
+      "en": "entry from Ballygunge Circular Road",
       "bn": "বালিগঞ্জ সার্কুলার রোড থেকে নমুনা প্রবেশ"
     },
     "exitRecommendation": {
-      "en": "Sample exit toward Lansdowne",
+      "en": "exit toward Lansdowne",
       "bn": "ল্যান্সডাউনের দিকে নমুনা প্রস্থান"
     },
     "bestVisitTime": {
-      "en": "Sample suggestion: afternoon to evening",
+      "en": "suggestion: afternoon to evening",
       "bn": "নমুনা পরামর্শ: বিকেল থেকে সন্ধ্যা"
     },
     "accessibility": {
@@ -864,17 +852,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-college-square-sarbojanin",
+    "slug": "college-square-sarbojanin",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] College Square Sarbojanin",
-      "bn": "[SAMPLE] College Square Sarbojanin"
+      "en": "College Square Sarbojanin",
+      "bn": "College Square Sarbojanin"
     },
     "zone": "central-kolkata",
     "locality": "College Square",
@@ -884,14 +872,13 @@
       "traditional"
     ],
     "tags": [
-      "sample",
       "famous",
       "central",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere",
-      "bn": "[SAMPLE] Known style: Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere"
+      "en": "Known style: Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere",
+      "bn": "Known style: Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere"
     },
     "themeDescription": {
       "en": "Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -937,17 +924,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-mohammad-ali-park",
+    "slug": "mohammad-ali-park",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Mohammad Ali Park",
-      "bn": "[SAMPLE] Mohammad Ali Park"
+      "en": "Mohammad Ali Park",
+      "bn": "Mohammad Ali Park"
     },
     "zone": "central-kolkata",
     "locality": "Mohammad Ali Park",
@@ -957,14 +944,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "central",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Large thematic architecture and high-footfall central Kolkata pandal presentation",
-      "bn": "[SAMPLE] Known style: Large thematic architecture and high-footfall central Kolkata pandal presentation"
+      "en": "Known style: Large thematic architecture and high-footfall central Kolkata pandal presentation",
+      "bn": "Known style: Large thematic architecture and high-footfall central Kolkata pandal presentation"
     },
     "themeDescription": {
       "en": "Large thematic architecture and high-footfall central Kolkata pandal presentation. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1010,17 +996,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-santosh-mitra-square",
+    "slug": "santosh-mitra-square",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Santosh Mitra Square",
-      "bn": "[SAMPLE] Santosh Mitra Square"
+      "en": "Santosh Mitra Square",
+      "bn": "Santosh Mitra Square"
     },
     "zone": "central-kolkata",
     "locality": "Bowbazar",
@@ -1030,14 +1016,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "central",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt",
-      "bn": "[SAMPLE] Known style: Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt"
+      "en": "Known style: Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt",
+      "bn": "Known style: Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt"
     },
     "themeDescription": {
       "en": "Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1083,17 +1068,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-kashi-bose-lane",
+    "slug": "kashi-bose-lane",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Kashi Bose Lane",
-      "bn": "[SAMPLE] Kashi Bose Lane"
+      "en": "Kashi Bose Lane",
+      "bn": "Kashi Bose Lane"
     },
     "zone": "north-kolkata",
     "locality": "Kashi Bose Lane",
@@ -1103,14 +1088,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "north",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: North Kolkata theme-art pandal known for dense lane ambience and detailed decoration",
-      "bn": "[SAMPLE] Known style: North Kolkata theme-art pandal known for dense lane ambience and detailed decoration"
+      "en": "Known style: North Kolkata theme-art pandal known for dense lane ambience and detailed decoration",
+      "bn": "Known style: North Kolkata theme-art pandal known for dense lane ambience and detailed decoration"
     },
     "themeDescription": {
       "en": "North Kolkata theme-art pandal known for dense lane ambience and detailed decoration. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1156,17 +1140,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-nalin-sarkar-street",
+    "slug": "nalin-sarkar-street",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Nalin Sarkar Street",
-      "bn": "[SAMPLE] Nalin Sarkar Street"
+      "en": "Nalin Sarkar Street",
+      "bn": "Nalin Sarkar Street"
     },
     "zone": "north-kolkata",
     "locality": "Nalin Sarkar Street",
@@ -1176,14 +1160,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "north",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster",
-      "bn": "[SAMPLE] Known style: North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster"
+      "en": "Known style: North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster",
+      "bn": "Known style: North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster"
     },
     "themeDescription": {
       "en": "North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1229,17 +1212,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-dum-dum-park-bharat-chakra",
+    "slug": "dum-dum-park-bharat-chakra",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Dum Dum Park Bharat Chakra",
-      "bn": "[SAMPLE] Dum Dum Park Bharat Chakra"
+      "en": "Dum Dum Park Bharat Chakra",
+      "bn": "Dum Dum Park Bharat Chakra"
     },
     "zone": "north-kolkata",
     "locality": "Dum Dum Park",
@@ -1249,14 +1232,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "north",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Dum Dum Park theme-art puja with high visitor interest",
-      "bn": "[SAMPLE] Known style: Dum Dum Park theme-art puja with high visitor interest"
+      "en": "Known style: Dum Dum Park theme-art puja with high visitor interest",
+      "bn": "Known style: Dum Dum Park theme-art puja with high visitor interest"
     },
     "themeDescription": {
       "en": "Dum Dum Park theme-art puja with high visitor interest. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1302,17 +1284,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-sreebhumi-sporting-club",
+    "slug": "sreebhumi-sporting-club",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Sreebhumi Sporting Club",
-      "bn": "[SAMPLE] Sreebhumi Sporting Club"
+      "en": "Sreebhumi Sporting Club",
+      "bn": "Sreebhumi Sporting Club"
     },
     "zone": "east-kolkata",
     "locality": "Sreebhumi",
@@ -1323,14 +1305,13 @@
       "award-winning"
     ],
     "tags": [
-      "sample",
       "famous",
       "east",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals",
-      "bn": "[SAMPLE] Known style: Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals"
+      "en": "Known style: Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals",
+      "bn": "Known style: Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals"
     },
     "themeDescription": {
       "en": "Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1376,17 +1357,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-chetla-agrani-club",
+    "slug": "chetla-agrani-club",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Chetla Agrani Club",
-      "bn": "[SAMPLE] Chetla Agrani Club"
+      "en": "Chetla Agrani Club",
+      "bn": "Chetla Agrani Club"
     },
     "zone": "south-kolkata",
     "locality": "Chetla",
@@ -1396,14 +1377,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: High-concept south Kolkata theme-art pandal with major visitor footfall",
-      "bn": "[SAMPLE] Known style: High-concept south Kolkata theme-art pandal with major visitor footfall"
+      "en": "Known style: High-concept south Kolkata theme-art pandal with major visitor footfall",
+      "bn": "Known style: High-concept south Kolkata theme-art pandal with major visitor footfall"
     },
     "themeDescription": {
       "en": "High-concept south Kolkata theme-art pandal with major visitor footfall. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1449,17 +1429,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-suruchi-sangha",
+    "slug": "suruchi-sangha",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Suruchi Sangha",
-      "bn": "[SAMPLE] Suruchi Sangha"
+      "en": "Suruchi Sangha",
+      "bn": "Suruchi Sangha"
     },
     "zone": "south-kolkata",
     "locality": "New Alipore",
@@ -1470,14 +1450,13 @@
       "award-winning"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Award-winning south Kolkata theme puja known for state/culture-inspired installations",
-      "bn": "[SAMPLE] Known style: Award-winning south Kolkata theme puja known for state/culture-inspired installations"
+      "en": "Known style: Award-winning south Kolkata theme puja known for state/culture-inspired installations",
+      "bn": "Known style: Award-winning south Kolkata theme puja known for state/culture-inspired installations"
     },
     "themeDescription": {
       "en": "Award-winning south Kolkata theme puja known for state/culture-inspired installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1523,17 +1502,17 @@
     "featured": true,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-tridhara-sammilani",
+    "slug": "tridhara-sammilani",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Tridhara Sammilani",
-      "bn": "[SAMPLE] Tridhara Sammilani"
+      "en": "Tridhara Sammilani",
+      "bn": "Tridhara Sammilani"
     },
     "zone": "south-kolkata",
     "locality": "Ballygunge",
@@ -1543,14 +1522,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster",
-      "bn": "[SAMPLE] Known style: Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster"
+      "en": "Known style: Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster",
+      "bn": "Known style: Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster"
     },
     "themeDescription": {
       "en": "Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1596,17 +1574,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-singhi-park",
+    "slug": "singhi-park",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Singhi Park",
-      "bn": "[SAMPLE] Singhi Park"
+      "en": "Singhi Park",
+      "bn": "Singhi Park"
     },
     "zone": "south-kolkata",
     "locality": "Gariahat",
@@ -1616,14 +1594,13 @@
       "traditional"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Classic south Kolkata puja with traditional presentation in the Gariahat cluster",
-      "bn": "[SAMPLE] Known style: Classic south Kolkata puja with traditional presentation in the Gariahat cluster"
+      "en": "Known style: Classic south Kolkata puja with traditional presentation in the Gariahat cluster",
+      "bn": "Known style: Classic south Kolkata puja with traditional presentation in the Gariahat cluster"
     },
     "themeDescription": {
       "en": "Classic south Kolkata puja with traditional presentation in the Gariahat cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1669,17 +1646,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-mudiali-club",
+    "slug": "mudiali-club",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Mudiali Club",
-      "bn": "[SAMPLE] Mudiali Club"
+      "en": "Mudiali Club",
+      "bn": "Mudiali Club"
     },
     "zone": "south-kolkata",
     "locality": "Tollygunge",
@@ -1689,14 +1666,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route",
-      "bn": "[SAMPLE] Known style: South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route"
+      "en": "Known style: South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route",
+      "bn": "Known style: South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route"
     },
     "themeDescription": {
       "en": "South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1742,17 +1718,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-bosepukur-sitala-mandir",
+    "slug": "bosepukur-sitala-mandir",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Bosepukur Sitala Mandir",
-      "bn": "[SAMPLE] Bosepukur Sitala Mandir"
+      "en": "Bosepukur Sitala Mandir",
+      "bn": "Bosepukur Sitala Mandir"
     },
     "zone": "south-kolkata",
     "locality": "Kasba",
@@ -1762,14 +1738,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Kasba theme-art puja known for creative installations",
-      "bn": "[SAMPLE] Known style: Kasba theme-art puja known for creative installations"
+      "en": "Known style: Kasba theme-art puja known for creative installations",
+      "bn": "Known style: Kasba theme-art puja known for creative installations"
     },
     "themeDescription": {
       "en": "Kasba theme-art puja known for creative installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1815,17 +1790,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-naktala-udayan-sangha",
+    "slug": "naktala-udayan-sangha",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Naktala Udayan Sangha",
-      "bn": "[SAMPLE] Naktala Udayan Sangha"
+      "en": "Naktala Udayan Sangha",
+      "bn": "Naktala Udayan Sangha"
     },
     "zone": "south-kolkata",
     "locality": "Naktala",
@@ -1835,14 +1810,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: South Kolkata theme puja known for concept-driven art installations",
-      "bn": "[SAMPLE] Known style: South Kolkata theme puja known for concept-driven art installations"
+      "en": "Known style: South Kolkata theme puja known for concept-driven art installations",
+      "bn": "Known style: South Kolkata theme puja known for concept-driven art installations"
     },
     "themeDescription": {
       "en": "South Kolkata theme puja known for concept-driven art installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1888,17 +1862,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-santoshpur-lake-pally",
+    "slug": "santoshpur-lake-pally",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Santoshpur Lake Pally",
-      "bn": "[SAMPLE] Santoshpur Lake Pally"
+      "en": "Santoshpur Lake Pally",
+      "bn": "Santoshpur Lake Pally"
     },
     "zone": "south-kolkata",
     "locality": "Santoshpur",
@@ -1908,14 +1882,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Lake-side Santoshpur theme-art puja with strong neighborhood identity",
-      "bn": "[SAMPLE] Known style: Lake-side Santoshpur theme-art puja with strong neighborhood identity"
+      "en": "Known style: Lake-side Santoshpur theme-art puja with strong neighborhood identity",
+      "bn": "Known style: Lake-side Santoshpur theme-art puja with strong neighborhood identity"
     },
     "themeDescription": {
       "en": "Lake-side Santoshpur theme-art puja with strong neighborhood identity. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -1961,17 +1934,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-badamtala-ashar-sangha",
+    "slug": "badamtala-ashar-sangha",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Badamtala Ashar Sangha",
-      "bn": "[SAMPLE] Badamtala Ashar Sangha"
+      "en": "Badamtala Ashar Sangha",
+      "bn": "Badamtala Ashar Sangha"
     },
     "zone": "south-kolkata",
     "locality": "Kalighat",
@@ -1981,14 +1954,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Popular Kalighat-area theme puja in the south Kolkata walking cluster",
-      "bn": "[SAMPLE] Known style: Popular Kalighat-area theme puja in the south Kolkata walking cluster"
+      "en": "Known style: Popular Kalighat-area theme puja in the south Kolkata walking cluster",
+      "bn": "Known style: Popular Kalighat-area theme puja in the south Kolkata walking cluster"
     },
     "themeDescription": {
       "en": "Popular Kalighat-area theme puja in the south Kolkata walking cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2034,17 +2006,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-behala-nutan-dal",
+    "slug": "behala-nutan-dal",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Behala Nutan Dal",
-      "bn": "[SAMPLE] Behala Nutan Dal"
+      "en": "Behala Nutan Dal",
+      "bn": "Behala Nutan Dal"
     },
     "zone": "west-kolkata",
     "locality": "Behala",
@@ -2054,14 +2026,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "west",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Behala theme-art puja and major west Kolkata crowd-puller",
-      "bn": "[SAMPLE] Known style: Behala theme-art puja and major west Kolkata crowd-puller"
+      "en": "Known style: Behala theme-art puja and major west Kolkata crowd-puller",
+      "bn": "Known style: Behala theme-art puja and major west Kolkata crowd-puller"
     },
     "themeDescription": {
       "en": "Behala theme-art puja and major west Kolkata crowd-puller. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2107,17 +2078,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-barisha-club",
+    "slug": "barisha-club",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Barisha Club",
-      "bn": "[SAMPLE] Barisha Club"
+      "en": "Barisha Club",
+      "bn": "Barisha Club"
     },
     "zone": "west-kolkata",
     "locality": "Barisha",
@@ -2127,14 +2098,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "west",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: West Kolkata theme-art stop around the Barisha-Behala route",
-      "bn": "[SAMPLE] Known style: West Kolkata theme-art stop around the Barisha-Behala route"
+      "en": "Known style: West Kolkata theme-art stop around the Barisha-Behala route",
+      "bn": "Known style: West Kolkata theme-art stop around the Barisha-Behala route"
     },
     "themeDescription": {
       "en": "West Kolkata theme-art stop around the Barisha-Behala route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2180,17 +2150,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-barisha-roy-bari",
+    "slug": "barisha-roy-bari",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Barisha Roy Bari",
-      "bn": "[SAMPLE] Barisha Roy Bari"
+      "en": "Barisha Roy Bari",
+      "bn": "Barisha Roy Bari"
     },
     "zone": "west-kolkata",
     "locality": "Barisha",
@@ -2200,15 +2170,14 @@
       "traditional"
     ],
     "tags": [
-      "sample",
       "famous",
       "west",
       "heritage",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Bonedi bari heritage puja with traditional thakur dalan rituals",
-      "bn": "[SAMPLE] Known style: Bonedi bari heritage puja with traditional thakur dalan rituals"
+      "en": "Known style: Bonedi bari heritage puja with traditional thakur dalan rituals",
+      "bn": "Known style: Bonedi bari heritage puja with traditional thakur dalan rituals"
     },
     "themeDescription": {
       "en": "Bonedi bari heritage puja with traditional thakur dalan rituals. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2254,17 +2223,17 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
-    "slug": "sample-bhowanipore-mallick-bari",
+    "slug": "bhowanipore-mallick-bari",
     "year": 2026,
     "name": {
-      "en": "[SAMPLE] Bhowanipore Mallick Bari",
-      "bn": "[SAMPLE] Bhowanipore Mallick Bari"
+      "en": "Bhowanipore Mallick Bari",
+      "bn": "Bhowanipore Mallick Bari"
     },
     "zone": "south-kolkata",
     "locality": "Bhowanipore",
@@ -2274,15 +2243,14 @@
       "traditional"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "heritage",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Bonedi bari heritage puja and traditional household ritual setting",
-      "bn": "[SAMPLE] Known style: Bonedi bari heritage puja and traditional household ritual setting"
+      "en": "Known style: Bonedi bari heritage puja and traditional household ritual setting",
+      "bn": "Known style: Bonedi bari heritage puja and traditional household ritual setting"
     },
     "themeDescription": {
       "en": "Bonedi bari heritage puja and traditional household ritual setting. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2328,8 +2296,8 @@
     "featured": false,
     "verified": false,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
@@ -2340,10 +2308,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-chaltabagan-lohapatty",
+    "slug": "chaltabagan-lohapatty",
     "name": {
-      "en": "[SAMPLE] Chaltabagan Lohapatty",
-      "bn": "[SAMPLE] Chaltabagan Lohapatty"
+      "en": "Chaltabagan Lohapatty",
+      "bn": "Chaltabagan Lohapatty"
     },
     "zone": "north-kolkata",
     "locality": "Manicktala",
@@ -2353,14 +2321,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "north",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Theme-art puja known for concept-driven installations in north Kolkata",
-      "bn": "[SAMPLE] Known style: Theme-art puja known for concept-driven installations in north Kolkata"
+      "en": "Known style: Theme-art puja known for concept-driven installations in north Kolkata",
+      "bn": "Known style: Theme-art puja known for concept-driven installations in north Kolkata"
     },
     "themeDescription": {
       "en": "Theme-art puja known for concept-driven installations in north Kolkata. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2402,8 +2369,8 @@
     },
     "popularityScore": 82,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   },
   {
@@ -2413,10 +2380,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-telengabagan-sarbojanin",
+    "slug": "telengabagan-sarbojanin",
     "name": {
-      "en": "[SAMPLE] Telengabagan Sarbojanin",
-      "bn": "[SAMPLE] Telengabagan Sarbojanin"
+      "en": "Telengabagan Sarbojanin",
+      "bn": "Telengabagan Sarbojanin"
     },
     "zone": "north-kolkata",
     "locality": "Ultadanga",
@@ -2426,14 +2393,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "north",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: North Kolkata community theme puja around the Ultadanga belt",
-      "bn": "[SAMPLE] Known style: North Kolkata community theme puja around the Ultadanga belt"
+      "en": "Known style: North Kolkata community theme puja around the Ultadanga belt",
+      "bn": "Known style: North Kolkata community theme puja around the Ultadanga belt"
     },
     "themeDescription": {
       "en": "North Kolkata community theme puja around the Ultadanga belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2475,8 +2441,8 @@
     },
     "popularityScore": 78,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   },
   {
@@ -2486,10 +2452,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-dum-dum-park-tarun-sangha",
+    "slug": "dum-dum-park-tarun-sangha",
     "name": {
-      "en": "[SAMPLE] Dum Dum Park Tarun Sangha",
-      "bn": "[SAMPLE] Dum Dum Park Tarun Sangha"
+      "en": "Dum Dum Park Tarun Sangha",
+      "bn": "Dum Dum Park Tarun Sangha"
     },
     "zone": "north-kolkata",
     "locality": "Dum Dum Park",
@@ -2499,14 +2465,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "hidden-gem",
       "north",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Colorful community theme puja in the Dum Dum Park cluster",
-      "bn": "[SAMPLE] Known style: Colorful community theme puja in the Dum Dum Park cluster"
+      "en": "Known style: Colorful community theme puja in the Dum Dum Park cluster",
+      "bn": "Known style: Colorful community theme puja in the Dum Dum Park cluster"
     },
     "themeDescription": {
       "en": "Colorful community theme puja in the Dum Dum Park cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2548,8 +2513,8 @@
     },
     "popularityScore": 73,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   },
   {
@@ -2559,10 +2524,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-lake-town-adhibasi-brinda",
+    "slug": "lake-town-adhibasi-brinda",
     "name": {
-      "en": "[SAMPLE] Lake Town Adhibasi Brinda",
-      "bn": "[SAMPLE] Lake Town Adhibasi Brinda"
+      "en": "Lake Town Adhibasi Brinda",
+      "bn": "Lake Town Adhibasi Brinda"
     },
     "zone": "north-kolkata",
     "locality": "Lake Town",
@@ -2572,14 +2537,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "north",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt",
-      "bn": "[SAMPLE] Known style: Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt"
+      "en": "Known style: Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt",
+      "bn": "Known style: Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt"
     },
     "themeDescription": {
       "en": "Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2621,8 +2585,8 @@
     },
     "popularityScore": 83,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   },
   {
@@ -2632,10 +2596,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-samaj-sebi-sangha",
+    "slug": "samaj-sebi-sangha",
     "name": {
-      "en": "[SAMPLE] Samaj Sebi Sangha",
-      "bn": "[SAMPLE] Samaj Sebi Sangha"
+      "en": "Samaj Sebi Sangha",
+      "bn": "Samaj Sebi Sangha"
     },
     "zone": "south-kolkata",
     "locality": "Lake Road",
@@ -2645,14 +2609,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Compact but popular Lake Road theme puja in a dense south Kolkata cluster",
-      "bn": "[SAMPLE] Known style: Compact but popular Lake Road theme puja in a dense south Kolkata cluster"
+      "en": "Known style: Compact but popular Lake Road theme puja in a dense south Kolkata cluster",
+      "bn": "Known style: Compact but popular Lake Road theme puja in a dense south Kolkata cluster"
     },
     "themeDescription": {
       "en": "Compact but popular Lake Road theme puja in a dense south Kolkata cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2694,8 +2657,8 @@
     },
     "popularityScore": 82,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   },
   {
@@ -2705,10 +2668,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-bosepukur-talbagan",
+    "slug": "bosepukur-talbagan",
     "name": {
-      "en": "[SAMPLE] Bosepukur Talbagan",
-      "bn": "[SAMPLE] Bosepukur Talbagan"
+      "en": "Bosepukur Talbagan",
+      "bn": "Bosepukur Talbagan"
     },
     "zone": "south-kolkata",
     "locality": "Kasba",
@@ -2718,14 +2681,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "hidden-gem",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route",
-      "bn": "[SAMPLE] Known style: Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route"
+      "en": "Known style: Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route",
+      "bn": "Known style: Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route"
     },
     "themeDescription": {
       "en": "Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2767,8 +2729,8 @@
     },
     "popularityScore": 70,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   },
   {
@@ -2778,10 +2740,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-rajdanga-naba-uday-sangha",
+    "slug": "rajdanga-naba-uday-sangha",
     "name": {
-      "en": "[SAMPLE] Rajdanga Naba Uday Sangha",
-      "bn": "[SAMPLE] Rajdanga Naba Uday Sangha"
+      "en": "Rajdanga Naba Uday Sangha",
+      "bn": "Rajdanga Naba Uday Sangha"
     },
     "zone": "south-kolkata",
     "locality": "Rajdanga",
@@ -2791,14 +2753,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Rajdanga theme-art puja in the east-south connector belt",
-      "bn": "[SAMPLE] Known style: Rajdanga theme-art puja in the east-south connector belt"
+      "en": "Known style: Rajdanga theme-art puja in the east-south connector belt",
+      "bn": "Known style: Rajdanga theme-art puja in the east-south connector belt"
     },
     "themeDescription": {
       "en": "Rajdanga theme-art puja in the east-south connector belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2840,8 +2801,8 @@
     },
     "popularityScore": 80,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   },
   {
@@ -2851,10 +2812,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-shiv-mandir-sarbojanin",
+    "slug": "shiv-mandir-sarbojanin",
     "name": {
-      "en": "[SAMPLE] Shiv Mandir Sarbojanin",
-      "bn": "[SAMPLE] Shiv Mandir Sarbojanin"
+      "en": "Shiv Mandir Sarbojanin",
+      "bn": "Shiv Mandir Sarbojanin"
     },
     "zone": "south-kolkata",
     "locality": "Lake Temple Road",
@@ -2864,14 +2825,13 @@
       "traditional"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Traditional south Kolkata puja near the Lake Temple Road route",
-      "bn": "[SAMPLE] Known style: Traditional south Kolkata puja near the Lake Temple Road route"
+      "en": "Known style: Traditional south Kolkata puja near the Lake Temple Road route",
+      "bn": "Known style: Traditional south Kolkata puja near the Lake Temple Road route"
     },
     "themeDescription": {
       "en": "Traditional south Kolkata puja near the Lake Temple Road route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2913,8 +2873,8 @@
     },
     "popularityScore": 76,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   },
   {
@@ -2924,10 +2884,10 @@
     "featured": false,
     "verified": false,
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
-    "slug": "sample-66-pally-sarbojanin",
+    "slug": "66-pally-sarbojanin",
     "name": {
-      "en": "[SAMPLE] 66 Pally Sarbojanin",
-      "bn": "[SAMPLE] 66 Pally Sarbojanin"
+      "en": "66 Pally Sarbojanin",
+      "bn": "66 Pally Sarbojanin"
     },
     "zone": "south-kolkata",
     "locality": "Kalighat",
@@ -2937,14 +2897,13 @@
       "theme"
     ],
     "tags": [
-      "sample",
       "famous",
       "south",
       "name-catalog"
     ],
     "themeTitle": {
-      "en": "[SAMPLE] Known style: Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir",
-      "bn": "[SAMPLE] Known style: Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir"
+      "en": "Known style: Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir",
+      "bn": "Known style: Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir"
     },
     "themeDescription": {
       "en": "Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
@@ -2986,8 +2945,8 @@
     },
     "popularityScore": 79,
     "sourceNote": {
-      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
-      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+      "en": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
     }
   }
 ]
