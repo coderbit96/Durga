@@ -6,21 +6,42 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "vitest run",
+    "test:ci": "npm run data:validate && npm run lint && npm run test && npm run build",
+    "data:validate": "tsx scripts/validate-puja-data.ts",
+    "data:seed": "tsx scripts/seed-pujas.ts",
+    "data:import-csv": "tsx scripts/import-pujas-from-csv.ts"
   },
   "dependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/utilities": "^3.2.2",
+    "@next/env": "^16.2.10",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.24.0",
+    "mongoose": "^9.7.4",
     "next": "16.2.10",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "tailwind-merge": "^3.6.0",
+    "zod": "^4.4.3",
+    "zustand": "^5.0.14"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.0.3",
     "eslint": "^9",
     "eslint-config-next": "16.2.10",
+    "jsdom": "^29.1.1",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "tsx": "^4.23.0",
+    "typescript": "^5",
+    "vitest": "^4.1.10"
   }
 }

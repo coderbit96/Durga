@@ -1,0 +1,16 @@
+import { handleApiError, okJson } from "@/server/api/responses";
+import { listPujas } from "@/server/repositories/pujas";
+
+function searchParamsToObject(searchParams: URLSearchParams) {
+  return Object.fromEntries(searchParams.entries());
+}
+
+export async function GET(request: Request) {
+  try {
+    const url = new URL(request.url);
+    const result = await listPujas(searchParamsToObject(url.searchParams));
+    return okJson(result);
+  } catch (error) {
+    return handleApiError(error);
+  }
+}

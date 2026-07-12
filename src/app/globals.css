@@ -1,26 +1,78 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fbf7ef;
+  --foreground: #211814;
+  --surface: #fffdf8;
+  --surface-muted: #f3e8d6;
+  --border: #e3d1b6;
+  --primary: #b42318;
+  --primary-foreground: #fff8ed;
+  --secondary: #126a6a;
+  --secondary-foreground: #f5fffb;
+  --accent: #d99a22;
+  --muted-foreground: #6d5b4f;
+  --ring: #b42318;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-ring: var(--ring);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+body::before {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  content: "";
+  background:
+    radial-gradient(circle at 12px 12px, rgba(180, 35, 24, 0.12) 2px, transparent 3px),
+    radial-gradient(circle at 32px 32px, rgba(18, 106, 106, 0.1) 2px, transparent 3px),
+    linear-gradient(135deg, rgba(217, 154, 34, 0.12), transparent 34%);
+  background-size: 44px 44px, 44px 44px, 100% 100%;
+}
+
+::selection {
+  background: rgba(180, 35, 24, 0.18);
+}
+
+*:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.alpana-ring {
+  background:
+    radial-gradient(circle, transparent 39%, rgba(180, 35, 24, 0.2) 40% 42%, transparent 43%),
+    conic-gradient(from 45deg, rgba(217, 154, 34, 0.22), transparent 18%, rgba(18, 106, 106, 0.18) 28%, transparent 40%);
 }

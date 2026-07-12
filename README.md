@@ -1,36 +1,179 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PujoPath Kolkata
+
+A production-ready Next.js foundation for discovering Durga Puja pandals in
+Kolkata, planning route stops, saving favorites, and browsing suggested routes.
+
+## Stack
+
+- Next.js App Router
+- TypeScript
+- Tailwind CSS
+- ESLint
+- Mongoose
+- Zod environment validation
+- Zustand-ready state layer
+- dnd-kit drag and drop
+- Vitest and Testing Library
 
 ## Getting Started
 
-First, run the development server:
+Install dependencies:
+
+```bash
+npm install
+```
+
+Create a local environment file:
+
+```bash
+cp .env.example .env.local
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment Variables
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The server-only map key is validated in `src/lib/env.ts` and must not be imported
+from client components. Client-safe values live in `src/lib/public-env.ts`.
 
-## Learn More
+| Variable | Notes |
+| --- | --- |
+| `MONGODB_URI` | MongoDB connection string for future persistence. |
+| `NEXT_PUBLIC_APP_URL` | Public app origin. Defaults to `http://localhost:3000`. |
+| `MAP_PROVIDER` | `mock`, `osm`, `none`, `google`, or `mapbox`. Defaults to `mock`. |
+| `MAPS_SERVER_API_KEY` | Server-only map key. Never expose to browser code. |
+| `NEXT_PUBLIC_MAPS_BROWSER_KEY` | Browser-safe map key when maps are enabled. |
+| `NEXT_PUBLIC_DEV_MOCK_LOCATION` | Non-production mock start location as `lat,lng`. |
+| `SHARED_PLAN_TTL_HOURS` | Shared plan expiration window. Defaults to `72`. |
+| `NEXT_PUBLIC_DEFAULT_PUJA_YEAR` | Default Puja year shown by client code. |
+| `NEXT_PUBLIC_MAX_PLAN_STOPS` | Client route stop limit. Defaults to `8`. |
 
-To learn more about Next.js, take a look at the following resources:
+Optional map values can be omitted during local development, so non-map pages
+continue to render while map integrations are unfinished.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Map Providers
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Map logic is provider-independent under `src/lib/maps`. The common interface
+supports geocoding, reverse geocoding, routing, distance matrix, and external
+navigation URLs.
 
-## Deploy on Vercel
+Set `MAP_PROVIDER` to switch providers:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+MAP_PROVIDER=mock
+MAP_PROVIDER=osm
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+`mock` is deterministic and used for tests. `osm` uses OpenStreetMap/Nominatim
+for geocoding and normalized mock routing/distance fallbacks. Provider-specific
+response shapes stay inside adapters. Server API keys belong only in
+`MAPS_SERVER_API_KEY`; browser display keys, when introduced, must be restricted
+to the app domain before deployment.
+
+## Scripts
+
+```bash
+npm run lint
+npm run test
+npm run test:ci
+npm run build
+npm run data:validate
+npm run data:seed
+npm run data:import-csv -- path/to/pujas.csv data/pujas-import.json
+```
+
+## Annual Data Workflow
+
+This project intentionally uses a no-admin workflow for festival data. Update
+versioned files, validate them, and seed MongoDB through scripts.
+
+1. Copy the previous year's files in `data/` to the new year, for example
+   `data/pujas-2026.json` and `data/routes-2026.json`.
+2. Mark draft records as unverified until source checks are complete. The bundled
+   2026 records are `[SAMPLE]` development examples and are not verified
+   current-year theme information.
+3. Run validation before any database write:
+
+```bash
+npm run data:validate
+```
+
+4. Seed with upsert by `slug` and `year`:
+
+```bash
+npm run data:seed
+```
+
+5. To import a working CSV into JSON:
+
+```bash
+npm run data:import-csv -- path/to/pujas.csv data/pujas-import.json
+```
+
+The CSV importer writes valid JSON records and reports invalid rows. It expects
+columns such as `slug`, `year`, `name_en`, `name_bn`, `zone`, `locality`,
+`categories`, `tags`, `address_en`, `address_bn`, `latitude`, `longitude`,
+`themeTitle_en`, and `themeDescription_en`.
+
+The seed script never deletes production data by default. The optional
+`--replace` path is guarded and only removes records present in the input files:
+
+```bash
+npm run data:seed -- --replace --confirm-replace
+```
+
+Public APIs hide unverified pujas by default. During development only, pass
+`includeUnverified=true` to inspect draft/sample data.
+
+## Privacy and Safety
+
+Location is requested only after a user action. Exact current location is kept in
+session/client state for route estimates, is not stored in MongoDB by default,
+and is excluded from shared plans unless explicitly included by the user. Do not
+send coordinates to analytics. Festival route results are estimates; traffic,
+barricades, police instructions, and temporary access rules can change quickly.
+
+## Routes
+
+- `/`
+- `/pujas/north-kolkata`
+- `/pujas/south-kolkata`
+- `/puja/[slug]`
+- `/plan`
+- `/favorites`
+- `/routes`
+- `/routes/[slug]`
+- `/about`
+
+## API Routes
+
+- `GET /api/pujas`
+- `GET /api/pujas/[slug]`
+- `GET /api/routes`
+- `GET /api/routes/[slug]`
+- `POST /api/route`
+- `POST /api/shared-plans`
+- `GET /api/shared-plans/[shareCode]`
+
+`GET /api/pujas` supports `zone`, `year`, `search`, `category`, `tag`,
+`featured`, `nearLat`, `nearLng`, `radiusKm`, `sort`, `page`, and `limit`.
+Map route and shared-plan endpoints validate payloads with Zod, apply basic
+rate limits, and avoid exposing server-side map keys.
+
+## Language Support
+
+The interface includes English and Bengali dictionaries with a persistent
+language switcher. Puja content uses bilingual fields and falls back to English
+when a localized value is missing. URLs stay language-neutral and stable.
+
+## Notes
+
+Authentication and admin screens are intentionally out of scope for this base.
+The visual direction uses warm paper surfaces, sindoor red, tram teal, marigold
+accents, and subtle alpana-inspired background patterning.
