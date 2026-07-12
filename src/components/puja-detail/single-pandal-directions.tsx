@@ -157,7 +157,7 @@ export function SinglePandalDirections({
               <li className="rounded-md border border-border p-3 text-sm" key={index}>
                 <p className="font-medium">Step {index + 1}</p>
                 <p className="text-muted-foreground">
-                  {(leg.distanceMeters / 1000).toFixed(1)} km · {leg.durationMinutes} min
+                  {(leg.distanceMeters / 1000).toFixed(1)} km - {leg.durationMinutes} min
                 </p>
                 {leg.instructions.map((instruction) => (
                   <p className="text-muted-foreground" key={instruction}>

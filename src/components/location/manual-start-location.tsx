@@ -22,6 +22,13 @@ export function ManualStartLocation({ onSubmit }: ManualStartLocationProps) {
       setMessage("Use coordinates as latitude, longitude.");
       return;
     }
+    if (
+      coordinates &&
+      (latitude < -90 || latitude > 90 || longitude < -180 || longitude > 180)
+    ) {
+      setMessage("Use valid latitude (-90 to 90) and longitude (-180 to 180).");
+      return;
+    }
 
     onSubmit({
       label: label || "Manual start location",

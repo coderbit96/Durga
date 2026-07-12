@@ -151,6 +151,12 @@ export default async function PujaDetailsPage({ params }: PujaPageProps) {
           <div className="space-y-5">
             <div className="flex flex-wrap gap-2">
               <Badge variant="festive">{formatZone(puja.zone)}</Badge>
+              {puja.tags.includes("famous") ? (
+                <Badge variant="festive">Famous</Badge>
+              ) : null}
+              {puja.tags.includes("hidden-gem") ? (
+                <Badge variant="teal">Hidden gem</Badge>
+              ) : null}
               {puja.categories.map((category) => (
                 <Badge key={category}>{category}</Badge>
               ))}

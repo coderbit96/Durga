@@ -38,7 +38,7 @@ export function useCurrentLocation() {
     locationReducer,
     initialLocationState,
     () => {
-    const stored = readStoredLocation();
+      const stored = readStoredLocation();
       return stored ? { location: stored, status: "success" as const } : initialLocationState;
     },
   );

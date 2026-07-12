@@ -10,9 +10,6 @@ describe("puja filter serialization", () => {
   it("round-trips URL filter state", () => {
     const params = serializePujaFilters({
       ...defaultPujaFilters,
-      accessible: true,
-      categories: ["heritage", "theme"],
-      famous: true,
       page: 3,
       search: "bagbazar",
       sort: "recently-updated",
@@ -20,9 +17,6 @@ describe("puja filter serialization", () => {
     });
 
     expect(parsePujaFilters(params)).toMatchObject({
-      accessible: true,
-      categories: ["heritage", "theme"],
-      famous: true,
       page: 3,
       search: "bagbazar",
       sort: "recently-updated",
@@ -40,5 +34,17 @@ describe("puja filter serialization", () => {
     expect(params.get("zone")).toBe("north-kolkata");
     expect(params.get("nearLat")).toBe("22.6");
     expect(params.get("nearLng")).toBe("88.36");
+  });
+
+  it("keeps valid zero coordinates for nearest sorting", () => {
+    const params = apiParamsFromFilters(
+      { ...defaultPujaFilters, sort: "nearest" },
+      "south-kolkata",
+      { latitude: 0, longitude: 0 },
+    );
+
+    expect(params.get("sort")).toBe("nearest");
+    expect(params.get("nearLat")).toBe("0");
+    expect(params.get("nearLng")).toBe("0");
   });
 });

@@ -2,11 +2,12 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { Filter, LayoutGrid, List, LocateFixed, MapPinned } from "lucide-react";
+import { LayoutGrid, LocateFixed, MapPinned } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Container } from "@/components/ui/container";
 import { Input } from "@/components/ui/input";
+import { MapView } from "@/components/maps/map-view";
 import { Skeleton } from "@/components/ui/skeleton";
 import type { Puja } from "@/domain";
 import {
@@ -16,7 +17,6 @@ import {
   type PujaFilterState,
   type ZoneSlug,
 } from "@/lib/filters";
-import { FilterPanel } from "./filter-panel";
 import { PujaCard } from "./puja-card";
 import { SortSelect } from "./sort-select";
 import { ZoneHeader } from "./zone-header";
@@ -98,7 +98,6 @@ export function ZoneListing({ description, title, zone }: ZoneListingProps) {
   const [meta, setMeta] = useState<PujaListResponse["meta"] | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
-  const [drawerOpen, setDrawerOpen] = useState(false);
   const [coordinates, setCoordinates] = useState<Coordinates | null>(null);
   const [locationMessage, setLocationMessage] = useState("");
 
@@ -177,13 +176,7 @@ export function ZoneListing({ description, title, zone }: ZoneListingProps) {
   return (
     <Container className="space-y-6 py-10">
       <ZoneHeader description={description} title={title} />
-      <div className="grid gap-6 lg:grid-cols-[280px_1fr]">
-        <FilterPanel
-          filters={filters}
-          mobileOpen={drawerOpen}
-          onChange={(next) => commitFilters(next)}
-          onClose={() => setDrawerOpen(false)}
-        />
+      <div className="grid gap-6">
         <section className="space-y-5">
           <div className="grid gap-3 rounded-lg border border-border bg-surface p-4 md:grid-cols-[1fr_auto_auto] md:items-end">
             <label className="grid gap-1 text-sm font-medium">
@@ -210,14 +203,6 @@ export function ZoneListing({ description, title, zone }: ZoneListingProps) {
             />
             <div className="flex gap-2">
               <Button
-                aria-label="Open filters"
-                onClick={() => setDrawerOpen(true)}
-                type="button"
-                variant="outline"
-              >
-                <Filter aria-hidden="true" size={18} />
-              </Button>
-              <Button
                 aria-label="List view"
                 onClick={() => commitFilters({ ...filters, view: "list" })}
                 type="button"
@@ -239,7 +224,7 @@ export function ZoneListing({ description, title, zone }: ZoneListingProps) {
           <div className="flex flex-wrap items-center justify-between gap-3">
             <p className="text-sm text-muted-foreground" role="status">
               {meta ? `${meta.total} pujas found` : "Loading pujas"}
-              {locationMessage ? ` · ${locationMessage}` : ""}
+              {locationMessage ? ` - ${locationMessage}` : ""}
             </p>
             <Button onClick={() => requestLocation()} type="button" variant="outline">
               <LocateFixed aria-hidden="true" size={18} />
@@ -260,7 +245,7 @@ export function ZoneListing({ description, title, zone }: ZoneListingProps) {
           ) : null}
           {!loading && !error && items.length === 0 ? (
             <Card className="p-5 text-sm text-muted-foreground">
-              No pujas match these filters. Try clearing one or two filters.
+              No pujas match this search.
             </Card>
           ) : null}
 
@@ -277,24 +262,14 @@ export function ZoneListing({ description, title, zone }: ZoneListingProps) {
           ) : null}
 
           {!error && items.length > 0 && filters.view === "map" ? (
-            <Card className="overflow-hidden">
-              <div className="min-h-80 bg-[#24332f] p-4 text-primary-foreground">
-                <div className="mb-4 flex items-center gap-2 text-sm">
-                  <List aria-hidden="true" size={18} /> Map view placeholder
-                </div>
-                <div className="grid gap-2 md:grid-cols-2">
-                  {items.map((puja, index) => (
-                    <div className="rounded-md bg-white/10 p-3 text-sm" key={puja.slug}>
-                      <span className="font-semibold">{index + 1}. {puja.name.en}</span>
-                      <span className="block text-[#e7f3ec]">
-                        {puja.location.coordinates[1].toFixed(4)},{" "}
-                        {puja.location.coordinates[0].toFixed(4)}
-                      </span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </Card>
+            <MapView
+              markers={items.map((puja, index) => ({
+                id: puja.slug,
+                label: `${index + 1}. ${puja.name.en}`,
+                point: puja.location,
+              }))}
+              routePoints={items.map((puja) => puja.location)}
+            />
           ) : null}
 
           {meta && meta.page < meta.totalPages ? (

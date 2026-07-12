@@ -2,327 +2,2992 @@
   {
     "slug": "sample-bagbazar-sarbojanin",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Bagbazar Sarbojanin", "bn": "[SAMPLE] বাগবাজার সার্বজনীন" },
-    "committeeName": { "en": "[SAMPLE] Bagbazar committee placeholder", "bn": "[SAMPLE] বাগবাজার কমিটি প্লেসহোল্ডার" },
+    "name": {
+      "en": "[SAMPLE] Bagbazar Sarbojanin",
+      "bn": "[SAMPLE] বাগবাজার সার্বজনীন"
+    },
+    "committeeName": {
+      "en": "[SAMPLE] Bagbazar committee placeholder",
+      "bn": "[SAMPLE] বাগবাজার কমিটি প্লেসহোল্ডার"
+    },
     "zone": "north-kolkata",
     "locality": "Bagbazar",
-    "categories": ["heritage", "traditional", "barowari"],
-    "tags": ["sample", "famous", "north", "heritage"],
-    "themeTitle": { "en": "[SAMPLE] Heritage courtyard study", "bn": "[SAMPLE] ঐতিহ্যবাহী আঙিনা ভাবনা" },
-    "themeDescription": { "en": "Sample development theme only. Not verified as current-year information.", "bn": "শুধু উন্নয়ন নমুনা। চলতি বছরের তথ্য হিসেবে যাচাই করা নয়।" },
-    "address": { "en": "Bagbazar, Kolkata, West Bengal", "bn": "বাগবাজার, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3656, 22.6039] },
-    "nearbyLandmark": { "en": "Bagbazar Ghat", "bn": "বাগবাজার ঘাট" },
+    "categories": [
+      "heritage",
+      "traditional",
+      "barowari"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "north",
+      "heritage"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Traditional sabeki idol and heritage north Kolkata ritual atmosphere",
+      "bn": "[SAMPLE] Known style: Traditional sabeki idol and heritage north Kolkata ritual atmosphere"
+    },
+    "themeDescription": {
+      "en": "Traditional sabeki idol and heritage north Kolkata ritual atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Traditional sabeki idol and heritage north Kolkata ritual atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Bagbazar, Kolkata, West Bengal",
+      "bn": "বাগবাজার, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3656,
+        22.6039
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Bagbazar Ghat",
+      "bn": "বাগবাজার ঘাট"
+    },
     "nearestMetro": "Shyambazar",
     "nearestRailwayStation": "Bagbazar",
-    "recommendedEntry": { "en": "Sample main-lane entry", "bn": "নমুনা মূল রাস্তা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample riverside exit", "bn": "নমুনা নদীপারের প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: early evening", "bn": "নমুনা পরামর্শ: সন্ধ্যার শুরু" },
-    "accessibility": { "wheelchairAccess": false, "seniorFriendly": true, "crowdLevel": "high", "notes": { "en": "Sample accessibility note; verify before publishing.", "bn": "নমুনা অ্যাক্সেসিবিলিটি নোট; প্রকাশের আগে যাচাই করুন।" } },
+    "recommendedEntry": {
+      "en": "Sample main-lane entry",
+      "bn": "নমুনা মূল রাস্তা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample riverside exit",
+      "bn": "নমুনা নদীপারের প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: early evening",
+      "bn": "নমুনা পরামর্শ: সন্ধ্যার শুরু"
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": true,
+      "crowdLevel": "high",
+      "notes": {
+        "en": "Sample accessibility note; verify before publishing.",
+        "bn": "নমুনা অ্যাক্সেসিবিলিটি নোট; প্রকাশের আগে যাচাই করুন।"
+      }
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 93,
     "featured": true,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Not verified for Durga Puja 2026.", "bn": "SAMPLE উন্নয়ন রেকর্ড। দুর্গাপুজো ২০২৬-এর জন্য যাচাই করা নয়।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-kumartuli-park",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Kumartuli Park", "bn": "[SAMPLE] কুমোরটুলি পার্ক" },
-    "committeeName": { "en": "[SAMPLE] Kumartuli Park placeholder", "bn": "[SAMPLE] কুমোরটুলি পার্ক প্লেসহোল্ডার" },
+    "name": {
+      "en": "[SAMPLE] Kumartuli Park",
+      "bn": "[SAMPLE] কুমোরটুলি পার্ক"
+    },
+    "committeeName": {
+      "en": "[SAMPLE] Kumartuli Park placeholder",
+      "bn": "[SAMPLE] কুমোরটুলি পার্ক প্লেসহোল্ডার"
+    },
     "zone": "north-kolkata",
     "locality": "Kumartuli",
-    "categories": ["theme", "community"],
-    "tags": ["sample", "famous", "artisan-quarter"],
-    "themeTitle": { "en": "[SAMPLE] Makers of the idol", "bn": "[SAMPLE] প্রতিমার কারিগর" },
-    "themeDescription": { "en": "Sample theme inspired by the locality; not verified current-year data.", "bn": "এলাকা-প্রাণিত নমুনা থিম; চলতি বছরের যাচাই করা তথ্য নয়।" },
-    "address": { "en": "Kumartuli, Kolkata, West Bengal", "bn": "কুমোরটুলি, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3604, 22.6013] },
-    "nearbyLandmark": { "en": "Kumartuli idol workshops", "bn": "কুমোরটুলির প্রতিমা কর্মশালা" },
+    "categories": [
+      "theme",
+      "community"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "artisan-quarter"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Artisan-quarter theme rooted in Kumartuli idol-making heritage",
+      "bn": "[SAMPLE] Known style: Artisan-quarter theme rooted in Kumartuli idol-making heritage"
+    },
+    "themeDescription": {
+      "en": "Artisan-quarter theme rooted in Kumartuli idol-making heritage. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Artisan-quarter theme rooted in Kumartuli idol-making heritage. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Kumartuli, Kolkata, West Bengal",
+      "bn": "কুমোরটুলি, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3604,
+        22.6013
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Kumartuli idol workshops",
+      "bn": "কুমোরটুলির প্রতিমা কর্মশালা"
+    },
     "nearestMetro": "Sovabazar Sutanuti",
     "nearestRailwayStation": "Bagbazar",
-    "recommendedEntry": { "en": "Sample entry from Rabindra Sarani side", "bn": "রবীন্দ্র সরণি দিক থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Sovabazar", "bn": "শোভাবাজারের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: afternoon", "bn": "নমুনা পরামর্শ: বিকেল" },
-    "accessibility": { "wheelchairAccess": false, "seniorFriendly": false, "crowdLevel": "very-high" },
+    "recommendedEntry": {
+      "en": "Sample entry from Rabindra Sarani side",
+      "bn": "রবীন্দ্র সরণি দিক থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Sovabazar",
+      "bn": "শোভাবাজারের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: afternoon",
+      "bn": "নমুনা পরামর্শ: বিকেল"
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "very-high"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 88,
     "featured": true,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Verify committee details before use.", "bn": "SAMPLE উন্নয়ন রেকর্ড। ব্যবহারের আগে কমিটির তথ্য যাচাই করুন।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-ahiritola-sarbojanin",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Ahiritola Sarbojanin", "bn": "[SAMPLE] আহিরীটোলা সার্বজনীন" },
+    "name": {
+      "en": "[SAMPLE] Ahiritola Sarbojanin",
+      "bn": "[SAMPLE] আহিরীটোলা সার্বজনীন"
+    },
     "zone": "north-kolkata",
     "locality": "Ahiritola",
-    "categories": ["theme", "barowari"],
-    "tags": ["sample", "famous", "north"],
-    "themeTitle": { "en": "[SAMPLE] River memory installation", "bn": "[SAMPLE] নদীস্মৃতি স্থাপনা" },
-    "themeDescription": { "en": "Sample route-planning content only; not a verified 2026 theme.", "bn": "শুধু রুট-প্ল্যানিং নমুনা; যাচাই করা ২০২৬ থিম নয়।" },
-    "address": { "en": "Ahiritola, Kolkata, West Bengal", "bn": "আহিরীটোলা, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3588, 22.5947] },
-    "nearbyLandmark": { "en": "Ahiritola Ghat", "bn": "আহিরীটোলা ঘাট" },
+    "categories": [
+      "theme",
+      "barowari"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "north"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: North Kolkata theme-art pandal near the riverfront heritage belt",
+      "bn": "[SAMPLE] Known style: North Kolkata theme-art pandal near the riverfront heritage belt"
+    },
+    "themeDescription": {
+      "en": "North Kolkata theme-art pandal near the riverfront heritage belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "North Kolkata theme-art pandal near the riverfront heritage belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Ahiritola, Kolkata, West Bengal",
+      "bn": "আহিরীটোলা, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3588,
+        22.5947
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Ahiritola Ghat",
+      "bn": "আহিরীটোলা ঘাট"
+    },
     "nearestMetro": "Sovabazar Sutanuti",
     "nearestRailwayStation": "Bagbazar",
-    "recommendedEntry": { "en": "Sample entry from B K Pal Avenue", "bn": "বি কে পাল অ্যাভিনিউ দিক থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Girish Park", "bn": "গিরিশ পার্কের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: late afternoon", "bn": "নমুনা পরামর্শ: বিকেলের শেষ ভাগ" },
-    "accessibility": { "wheelchairAccess": false, "seniorFriendly": true, "crowdLevel": "high" },
+    "recommendedEntry": {
+      "en": "Sample entry from B K Pal Avenue",
+      "bn": "বি কে পাল অ্যাভিনিউ দিক থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Girish Park",
+      "bn": "গিরিশ পার্কের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: late afternoon",
+      "bn": "নমুনা পরামর্শ: বিকেলের শেষ ভাগ"
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": true,
+      "crowdLevel": "high"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 84,
     "featured": true,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Not verified current-year information.", "bn": "SAMPLE উন্নয়ন রেকর্ড। চলতি বছরের যাচাই করা তথ্য নয়।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-sovabazar-rajbari-cluster",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Sovabazar Rajbari Cluster", "bn": "[SAMPLE] শোভাবাজার রাজবাড়ি ক্লাস্টার" },
+    "name": {
+      "en": "[SAMPLE] Sovabazar Rajbari Cluster",
+      "bn": "[SAMPLE] শোভাবাজার রাজবাড়ি ক্লাস্টার"
+    },
     "zone": "north-kolkata",
     "locality": "Sovabazar",
-    "categories": ["bonedi-bari", "heritage", "traditional"],
-    "tags": ["sample", "famous", "bonedi"],
-    "themeTitle": { "en": "[SAMPLE] Bonedi bari trail", "bn": "[SAMPLE] বনেদি বাড়ির পথ" },
-    "themeDescription": { "en": "Sample cluster entry for development; confirm access rules each year.", "bn": "উন্নয়নের জন্য নমুনা ক্লাস্টার; প্রতি বছর প্রবেশের নিয়ম যাচাই করুন।" },
-    "address": { "en": "Sovabazar, Kolkata, West Bengal", "bn": "শোভাবাজার, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3632, 22.5952] },
-    "nearbyLandmark": { "en": "Sovabazar Rajbari", "bn": "শোভাবাজার রাজবাড়ি" },
+    "categories": [
+      "bonedi-bari",
+      "heritage",
+      "traditional"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "bonedi"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture",
+      "bn": "[SAMPLE] Known style: Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture"
+    },
+    "themeDescription": {
+      "en": "Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Bonedi bari heritage, thakur dalan rituals, and old Kolkata mansion culture. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Sovabazar, Kolkata, West Bengal",
+      "bn": "শোভাবাজার, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3632,
+        22.5952
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Sovabazar Rajbari",
+      "bn": "শোভাবাজার রাজবাড়ি"
+    },
     "nearestMetro": "Sovabazar Sutanuti",
     "nearestRailwayStation": "Bagbazar",
-    "recommendedEntry": { "en": "Sample entry from metro side", "bn": "মেট্রো দিক থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Chitpur Road", "bn": "চিতপুর রোডের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: morning rituals", "bn": "নমুনা পরামর্শ: সকালের আচার" },
-    "accessibility": { "wheelchairAccess": false, "seniorFriendly": true, "crowdLevel": "medium" },
+    "recommendedEntry": {
+      "en": "Sample entry from metro side",
+      "bn": "মেট্রো দিক থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Chitpur Road",
+      "bn": "চিতপুর রোডের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: morning rituals",
+      "bn": "নমুনা পরামর্শ: সকালের আচার"
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": true,
+      "crowdLevel": "medium"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 87,
     "featured": true,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Visitor access is not verified.", "bn": "SAMPLE উন্নয়ন রেকর্ড। দর্শনার্থী প্রবেশ যাচাই করা নয়।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-tala-baroari",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Tala Baroari", "bn": "[SAMPLE] টালা বারোয়ারি" },
+    "name": {
+      "en": "[SAMPLE] Tala Baroari",
+      "bn": "[SAMPLE] টালা বারোয়ারি"
+    },
     "zone": "north-kolkata",
     "locality": "Tala",
-    "categories": ["community", "theme"],
-    "tags": ["sample", "hidden-gem", "north"],
-    "themeTitle": { "en": "[SAMPLE] Neighborhood light study", "bn": "[SAMPLE] পাড়ার আলোর ভাবনা" },
-    "themeDescription": { "en": "Sample hidden-gem example; not verified as a current-year listing.", "bn": "নমুনা হিডেন-জেম উদাহরণ; চলতি বছরের তালিকা হিসেবে যাচাই করা নয়।" },
-    "address": { "en": "Tala, Kolkata, West Bengal", "bn": "টালা, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3795, 22.6138] },
-    "nearbyLandmark": { "en": "Tala Park area", "bn": "টালা পার্ক এলাকা" },
+    "categories": [
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "hidden-gem",
+      "north"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Neighborhood theme puja with a quieter north Kolkata discovery feel",
+      "bn": "[SAMPLE] Known style: Neighborhood theme puja with a quieter north Kolkata discovery feel"
+    },
+    "themeDescription": {
+      "en": "Neighborhood theme puja with a quieter north Kolkata discovery feel. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Neighborhood theme puja with a quieter north Kolkata discovery feel. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Tala, Kolkata, West Bengal",
+      "bn": "টালা, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3795,
+        22.6138
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Tala Park area",
+      "bn": "টালা পার্ক এলাকা"
+    },
     "nearestMetro": "Belgachia",
     "nearestRailwayStation": "Tala",
-    "recommendedEntry": { "en": "Sample entry from Tala Park side", "bn": "টালা পার্ক দিক থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Belgachia", "bn": "বেলগাছিয়ার দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: early night", "bn": "নমুনা পরামর্শ: রাতের শুরু" },
-    "accessibility": { "wheelchairAccess": true, "seniorFriendly": true, "crowdLevel": "medium" },
+    "recommendedEntry": {
+      "en": "Sample entry from Tala Park side",
+      "bn": "টালা পার্ক দিক থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Belgachia",
+      "bn": "বেলগাছিয়ার দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: early night",
+      "bn": "নমুনা পরামর্শ: রাতের শুরু"
+    },
+    "accessibility": {
+      "wheelchairAccess": true,
+      "seniorFriendly": true,
+      "crowdLevel": "medium"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 68,
     "featured": false,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE hidden-gem development record; verify before publication.", "bn": "SAMPLE হিডেন-জেম উন্নয়ন রেকর্ড; প্রকাশের আগে যাচাই করুন।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-hatibagan-nabin-pally",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Hatibagan Nabin Pally", "bn": "[SAMPLE] হাতিবাগান নবীন পল্লী" },
+    "name": {
+      "en": "[SAMPLE] Hatibagan Nabin Pally",
+      "bn": "[SAMPLE] হাতিবাগান নবীন পল্লী"
+    },
     "zone": "north-kolkata",
     "locality": "Hatibagan",
-    "categories": ["community", "theme"],
-    "tags": ["sample", "hidden-gem", "market-area"],
-    "themeTitle": { "en": "[SAMPLE] Bazaar rhythms", "bn": "[SAMPLE] বাজারের ছন্দ" },
-    "themeDescription": { "en": "Sample development theme, not verified for Durga Puja 2026.", "bn": "নমুনা উন্নয়ন থিম, দুর্গাপুজো ২০২৬-এর জন্য যাচাই করা নয়।" },
-    "address": { "en": "Hatibagan, Kolkata, West Bengal", "bn": "হাতিবাগান, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3721, 22.5914] },
-    "nearbyLandmark": { "en": "Hatibagan Market", "bn": "হাতিবাগান বাজার" },
+    "categories": [
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "hidden-gem",
+      "market-area"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Market-neighborhood theme puja around the Hatibagan-Shyambazar belt",
+      "bn": "[SAMPLE] Known style: Market-neighborhood theme puja around the Hatibagan-Shyambazar belt"
+    },
+    "themeDescription": {
+      "en": "Market-neighborhood theme puja around the Hatibagan-Shyambazar belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Market-neighborhood theme puja around the Hatibagan-Shyambazar belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Hatibagan, Kolkata, West Bengal",
+      "bn": "হাতিবাগান, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3721,
+        22.5914
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Hatibagan Market",
+      "bn": "হাতিবাগান বাজার"
+    },
     "nearestMetro": "Shyambazar",
     "nearestRailwayStation": "Bagbazar",
-    "recommendedEntry": { "en": "Sample entry from market side", "bn": "বাজার দিক থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Shyambazar", "bn": "শ্যামবাজারের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: before peak evening", "bn": "নমুনা পরামর্শ: ভিড়ের আগের সন্ধ্যা" },
-    "accessibility": { "wheelchairAccess": false, "seniorFriendly": false, "crowdLevel": "high" },
+    "recommendedEntry": {
+      "en": "Sample entry from market side",
+      "bn": "বাজার দিক থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Shyambazar",
+      "bn": "শ্যামবাজারের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: before peak evening",
+      "bn": "নমুনা পরামর্শ: ভিড়ের আগের সন্ধ্যা"
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 64,
     "featured": false,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE hidden-gem record. Not verified current-year information.", "bn": "SAMPLE হিডেন-জেম রেকর্ড। চলতি বছরের যাচাই করা তথ্য নয়।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-deshapriya-park",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Deshapriya Park", "bn": "[SAMPLE] দেশপ্রিয় পার্ক" },
+    "name": {
+      "en": "[SAMPLE] Deshapriya Park",
+      "bn": "[SAMPLE] দেশপ্রিয় পার্ক"
+    },
     "zone": "south-kolkata",
     "locality": "Rashbehari",
-    "categories": ["theme", "community", "award-winning"],
-    "tags": ["sample", "famous", "south"],
-    "themeTitle": { "en": "[SAMPLE] Open ground spectacle", "bn": "[SAMPLE] ময়দানের দৃশ্যকল্প" },
-    "themeDescription": { "en": "Sample description only; not verified as current-year theme information.", "bn": "শুধু নমুনা বিবরণ; চলতি বছরের থিম তথ্য হিসেবে যাচাই করা নয়।" },
-    "address": { "en": "Deshapriya Park, Kolkata, West Bengal", "bn": "দেশপ্রিয় পার্ক, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3526, 22.5173] },
-    "nearbyLandmark": { "en": "Deshapriya Park crossing", "bn": "দেশপ্রিয় পার্ক মোড়" },
+    "categories": [
+      "theme",
+      "community",
+      "award-winning"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Large open-ground spectacle and high-footfall south Kolkata theme presentation",
+      "bn": "[SAMPLE] Known style: Large open-ground spectacle and high-footfall south Kolkata theme presentation"
+    },
+    "themeDescription": {
+      "en": "Large open-ground spectacle and high-footfall south Kolkata theme presentation. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Large open-ground spectacle and high-footfall south Kolkata theme presentation. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Deshapriya Park, Kolkata, West Bengal",
+      "bn": "দেশপ্রিয় পার্ক, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3526,
+        22.5173
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Deshapriya Park crossing",
+      "bn": "দেশপ্রিয় পার্ক মোড়"
+    },
     "nearestMetro": "Kalighat",
     "nearestRailwayStation": "Lake Gardens",
-    "recommendedEntry": { "en": "Sample entry from Rashbehari Avenue", "bn": "রশবিহারী অ্যাভিনিউ থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Southern Avenue", "bn": "সাদার্ন অ্যাভিনিউয়ের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: late night", "bn": "নমুনা পরামর্শ: রাত গভীর" },
-    "accessibility": { "wheelchairAccess": true, "seniorFriendly": true, "crowdLevel": "very-high" },
+    "recommendedEntry": {
+      "en": "Sample entry from Rashbehari Avenue",
+      "bn": "রশবিহারী অ্যাভিনিউ থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Southern Avenue",
+      "bn": "সাদার্ন অ্যাভিনিউয়ের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: late night",
+      "bn": "নমুনা পরামর্শ: রাত গভীর"
+    },
+    "accessibility": {
+      "wheelchairAccess": true,
+      "seniorFriendly": true,
+      "crowdLevel": "very-high"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 95,
     "featured": true,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Not verified for Durga Puja 2026.", "bn": "SAMPLE উন্নয়ন রেকর্ড। দুর্গাপুজো ২০২৬-এর জন্য যাচাই করা নয়।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-ballygunge-cultural",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Ballygunge Cultural", "bn": "[SAMPLE] বালিগঞ্জ কালচারাল" },
+    "name": {
+      "en": "[SAMPLE] Ballygunge Cultural",
+      "bn": "[SAMPLE] বালিগঞ্জ কালচারাল"
+    },
     "zone": "south-kolkata",
     "locality": "Ballygunge",
-    "categories": ["community", "theme"],
-    "tags": ["sample", "famous", "south", "organized"],
-    "themeTitle": { "en": "[SAMPLE] Structured crowd path", "bn": "[SAMPLE] সংগঠিত দর্শনপথ" },
-    "themeDescription": { "en": "Sample planning description; current-year theme not verified.", "bn": "নমুনা পরিকল্পনা বিবরণ; চলতি বছরের থিম যাচাই করা নয়।" },
-    "address": { "en": "Ballygunge, Kolkata, West Bengal", "bn": "বালিগঞ্জ, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3688, 22.5293] },
-    "nearbyLandmark": { "en": "Ballygunge Phari", "bn": "বালিগঞ্জ ফাঁড়ি" },
+    "categories": [
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "organized"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Major south Kolkata theme-art puja with organized visitor flow",
+      "bn": "[SAMPLE] Known style: Major south Kolkata theme-art puja with organized visitor flow"
+    },
+    "themeDescription": {
+      "en": "Major south Kolkata theme-art puja with organized visitor flow. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Major south Kolkata theme-art puja with organized visitor flow. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Ballygunge, Kolkata, West Bengal",
+      "bn": "বালিগঞ্জ, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3688,
+        22.5293
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Ballygunge Phari",
+      "bn": "বালিগঞ্জ ফাঁড়ি"
+    },
     "nearestMetro": "Kalighat",
     "nearestRailwayStation": "Ballygunge Junction",
-    "recommendedEntry": { "en": "Sample entry from Gariahat side", "bn": "গড়িয়াহাট দিক থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Ballygunge station", "bn": "বালিগঞ্জ স্টেশনের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: evening", "bn": "নমুনা পরামর্শ: সন্ধ্যা" },
-    "accessibility": { "wheelchairAccess": true, "seniorFriendly": true, "crowdLevel": "high" },
+    "recommendedEntry": {
+      "en": "Sample entry from Gariahat side",
+      "bn": "গড়িয়াহাট দিক থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Ballygunge station",
+      "bn": "বালিগঞ্জ স্টেশনের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: evening",
+      "bn": "নমুনা পরামর্শ: সন্ধ্যা"
+    },
+    "accessibility": {
+      "wheelchairAccess": true,
+      "seniorFriendly": true,
+      "crowdLevel": "high"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 89,
     "featured": true,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Verify official details before publishing.", "bn": "SAMPLE উন্নয়ন রেকর্ড। প্রকাশের আগে সরকারি তথ্য যাচাই করুন।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-jodhpur-park-95-pally",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Jodhpur Park 95 Pally", "bn": "[SAMPLE] যোধপুর পার্ক ৯৫ পল্লী" },
+    "name": {
+      "en": "[SAMPLE] Jodhpur Park 95 Pally",
+      "bn": "[SAMPLE] যোধপুর পার্ক ৯৫ পল্লী"
+    },
     "zone": "south-kolkata",
     "locality": "Jodhpur Park",
-    "categories": ["theme", "family-friendly"],
-    "tags": ["sample", "famous", "south"],
-    "themeTitle": { "en": "[SAMPLE] Lake-side neighborhood story", "bn": "[SAMPLE] লেকপাড়ার পাড়ার গল্প" },
-    "themeDescription": { "en": "Sample theme text; not verified as Durga Puja 2026 information.", "bn": "নমুনা থিম টেক্সট; দুর্গাপুজো ২০২৬ তথ্য হিসেবে যাচাই করা নয়।" },
-    "address": { "en": "Jodhpur Park, Kolkata, West Bengal", "bn": "যোধপুর পার্ক, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3663, 22.5055] },
-    "nearbyLandmark": { "en": "Jodhpur Park post office area", "bn": "যোধপুর পার্ক পোস্ট অফিস এলাকা" },
+    "categories": [
+      "theme",
+      "family-friendly"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: South Kolkata theme-art stop around the Jodhpur Park lake neighborhood",
+      "bn": "[SAMPLE] Known style: South Kolkata theme-art stop around the Jodhpur Park lake neighborhood"
+    },
+    "themeDescription": {
+      "en": "South Kolkata theme-art stop around the Jodhpur Park lake neighborhood. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "South Kolkata theme-art stop around the Jodhpur Park lake neighborhood. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Jodhpur Park, Kolkata, West Bengal",
+      "bn": "যোধপুর পার্ক, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3663,
+        22.5055
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Jodhpur Park post office area",
+      "bn": "যোধপুর পার্ক পোস্ট অফিস এলাকা"
+    },
     "nearestMetro": "Rabindra Sarobar",
     "nearestRailwayStation": "Dhakuria",
-    "recommendedEntry": { "en": "Sample entry from Jodhpur Park main road", "bn": "যোধপুর পার্ক মেইন রোড থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Dhakuria", "bn": "ঢাকুরিয়ার দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: post-dinner", "bn": "নমুনা পরামর্শ: রাতের খাবারের পরে" },
-    "accessibility": { "wheelchairAccess": true, "seniorFriendly": true, "crowdLevel": "medium" },
+    "recommendedEntry": {
+      "en": "Sample entry from Jodhpur Park main road",
+      "bn": "যোধপুর পার্ক মেইন রোড থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Dhakuria",
+      "bn": "ঢাকুরিয়ার দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: post-dinner",
+      "bn": "নমুনা পরামর্শ: রাতের খাবারের পরে"
+    },
+    "accessibility": {
+      "wheelchairAccess": true,
+      "seniorFriendly": true,
+      "crowdLevel": "medium"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 82,
     "featured": true,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Not verified current-year information.", "bn": "SAMPLE উন্নয়ন রেকর্ড। চলতি বছরের যাচাই করা তথ্য নয়।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-ekdalia-evergreen",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Ekdalia Evergreen", "bn": "[SAMPLE] একডালিয়া এভারগ্রিন" },
+    "name": {
+      "en": "[SAMPLE] Ekdalia Evergreen",
+      "bn": "[SAMPLE] একডালিয়া এভারগ্রিন"
+    },
     "zone": "south-kolkata",
     "locality": "Gariahat",
-    "categories": ["traditional", "community"],
-    "tags": ["sample", "famous", "gariahat"],
-    "themeTitle": { "en": "[SAMPLE] Classic south Kolkata stop", "bn": "[SAMPLE] ক্লাসিক দক্ষিণ কলকাতা স্টপ" },
-    "themeDescription": { "en": "Sample listing text only; not verified as a 2026 theme.", "bn": "শুধু নমুনা তালিকার লেখা; ২০২৬ থিম হিসেবে যাচাই করা নয়।" },
-    "address": { "en": "Ekdalia Road, Gariahat, Kolkata", "bn": "একডালিয়া রোড, গড়িয়াহাট, কলকাতা" },
-    "location": { "type": "Point", "coordinates": [88.366, 22.5204] },
-    "nearbyLandmark": { "en": "Gariahat crossing", "bn": "গড়িয়াহাট মোড়" },
+    "categories": [
+      "traditional",
+      "community"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "gariahat"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Traditional/sabeki presentation and classic Gariahat puja atmosphere",
+      "bn": "[SAMPLE] Known style: Traditional/sabeki presentation and classic Gariahat puja atmosphere"
+    },
+    "themeDescription": {
+      "en": "Traditional/sabeki presentation and classic Gariahat puja atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Traditional/sabeki presentation and classic Gariahat puja atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Ekdalia Road, Gariahat, Kolkata",
+      "bn": "একডালিয়া রোড, গড়িয়াহাট, কলকাতা"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.366,
+        22.5204
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Gariahat crossing",
+      "bn": "গড়িয়াহাট মোড়"
+    },
     "nearestMetro": "Kalighat",
     "nearestRailwayStation": "Ballygunge Junction",
-    "recommendedEntry": { "en": "Sample entry from Gariahat Road", "bn": "গড়িয়াহাট রোড থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Ballygunge", "bn": "বালিগঞ্জের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: late evening", "bn": "নমুনা পরামর্শ: সন্ধ্যার শেষ ভাগ" },
-    "accessibility": { "wheelchairAccess": false, "seniorFriendly": true, "crowdLevel": "high" },
+    "recommendedEntry": {
+      "en": "Sample entry from Gariahat Road",
+      "bn": "গড়িয়াহাট রোড থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Ballygunge",
+      "bn": "বালিগঞ্জের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: late evening",
+      "bn": "নমুনা পরামর্শ: সন্ধ্যার শেষ ভাগ"
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": true,
+      "crowdLevel": "high"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 86,
     "featured": false,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Verify before publishing.", "bn": "SAMPLE উন্নয়ন রেকর্ড। প্রকাশের আগে যাচাই করুন।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-hindustan-park",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Hindustan Park", "bn": "[SAMPLE] হিন্দুস্তান পার্ক" },
+    "name": {
+      "en": "[SAMPLE] Hindustan Park",
+      "bn": "[SAMPLE] হিন্দুস্তান পার্ক"
+    },
     "zone": "south-kolkata",
     "locality": "Hindustan Park",
-    "categories": ["theme", "community"],
-    "tags": ["sample", "hidden-gem", "south"],
-    "themeTitle": { "en": "[SAMPLE] Quiet lane installation", "bn": "[SAMPLE] শান্ত গলির স্থাপনা" },
-    "themeDescription": { "en": "Sample hidden-gem listing; not verified current-year information.", "bn": "নমুনা হিডেন-জেম তালিকা; চলতি বছরের যাচাই করা তথ্য নয়।" },
-    "address": { "en": "Hindustan Park, Kolkata, West Bengal", "bn": "হিন্দুস্তান পার্ক, কলকাতা, পশ্চিমবঙ্গ" },
-    "location": { "type": "Point", "coordinates": [88.3617, 22.5191] },
-    "nearbyLandmark": { "en": "Hindustan Park lanes", "bn": "হিন্দুস্তান পার্কের গলি" },
+    "categories": [
+      "theme",
+      "community"
+    ],
+    "tags": [
+      "sample",
+      "hidden-gem",
+      "south"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Contemporary theme-art pandal in a walkable south Kolkata cluster",
+      "bn": "[SAMPLE] Known style: Contemporary theme-art pandal in a walkable south Kolkata cluster"
+    },
+    "themeDescription": {
+      "en": "Contemporary theme-art pandal in a walkable south Kolkata cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Contemporary theme-art pandal in a walkable south Kolkata cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Hindustan Park, Kolkata, West Bengal",
+      "bn": "হিন্দুস্তান পার্ক, কলকাতা, পশ্চিমবঙ্গ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3617,
+        22.5191
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Hindustan Park lanes",
+      "bn": "হিন্দুস্তান পার্কের গলি"
+    },
     "nearestMetro": "Kalighat",
     "nearestRailwayStation": "Ballygunge Junction",
-    "recommendedEntry": { "en": "Sample entry from Gariahat side", "bn": "গড়িয়াহাট দিক থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Lake Road", "bn": "লেক রোডের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: early evening", "bn": "নমুনা পরামর্শ: সন্ধ্যার শুরু" },
-    "accessibility": { "wheelchairAccess": true, "seniorFriendly": true, "crowdLevel": "medium" },
+    "recommendedEntry": {
+      "en": "Sample entry from Gariahat side",
+      "bn": "গড়িয়াহাট দিক থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Lake Road",
+      "bn": "লেক রোডের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: early evening",
+      "bn": "নমুনা পরামর্শ: সন্ধ্যার শুরু"
+    },
+    "accessibility": {
+      "wheelchairAccess": true,
+      "seniorFriendly": true,
+      "crowdLevel": "medium"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 70,
     "featured": false,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE hidden-gem development record; verify before publication.", "bn": "SAMPLE হিডেন-জেম উন্নয়ন রেকর্ড; প্রকাশের আগে যাচাই করুন।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
   },
   {
     "slug": "sample-maddox-square",
     "year": 2026,
-    "name": { "en": "[SAMPLE] Maddox Square", "bn": "[SAMPLE] ম্যাডক্স স্কোয়ার" },
+    "name": {
+      "en": "[SAMPLE] Maddox Square",
+      "bn": "[SAMPLE] ম্যাডক্স স্কোয়ার"
+    },
     "zone": "south-kolkata",
     "locality": "Ballygunge",
-    "categories": ["traditional", "family-friendly", "community"],
-    "tags": ["sample", "hidden-gem", "adda"],
-    "themeTitle": { "en": "[SAMPLE] Adda and open green", "bn": "[SAMPLE] আড্ডা আর খোলা মাঠ" },
-    "themeDescription": { "en": "Sample development copy. Not verified as current-year information.", "bn": "নমুনা উন্নয়ন কপি। চলতি বছরের তথ্য হিসেবে যাচাই করা নয়।" },
-    "address": { "en": "Maddox Square, Ballygunge, Kolkata", "bn": "ম্যাডক্স স্কোয়ার, বালিগঞ্জ, কলকাতা" },
-    "location": { "type": "Point", "coordinates": [88.359, 22.5286] },
-    "nearbyLandmark": { "en": "Maddox Square park", "bn": "ম্যাডক্স স্কোয়ার পার্ক" },
+    "categories": [
+      "traditional",
+      "family-friendly",
+      "community"
+    ],
+    "tags": [
+      "sample",
+      "hidden-gem",
+      "adda"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Family-friendly adda, open green setting, and traditional festive ambience",
+      "bn": "[SAMPLE] Known style: Family-friendly adda, open green setting, and traditional festive ambience"
+    },
+    "themeDescription": {
+      "en": "Family-friendly adda, open green setting, and traditional festive ambience. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Family-friendly adda, open green setting, and traditional festive ambience. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Maddox Square, Ballygunge, Kolkata",
+      "bn": "ম্যাডক্স স্কোয়ার, বালিগঞ্জ, কলকাতা"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.359,
+        22.5286
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Maddox Square park",
+      "bn": "ম্যাডক্স স্কোয়ার পার্ক"
+    },
     "nearestMetro": "Rabindra Sadan",
     "nearestRailwayStation": "Ballygunge Junction",
-    "recommendedEntry": { "en": "Sample entry from Ballygunge Circular Road", "bn": "বালিগঞ্জ সার্কুলার রোড থেকে নমুনা প্রবেশ" },
-    "exitRecommendation": { "en": "Sample exit toward Lansdowne", "bn": "ল্যান্সডাউনের দিকে নমুনা প্রস্থান" },
-    "bestVisitTime": { "en": "Sample suggestion: afternoon to evening", "bn": "নমুনা পরামর্শ: বিকেল থেকে সন্ধ্যা" },
-    "accessibility": { "wheelchairAccess": true, "seniorFriendly": true, "crowdLevel": "medium" },
+    "recommendedEntry": {
+      "en": "Sample entry from Ballygunge Circular Road",
+      "bn": "বালিগঞ্জ সার্কুলার রোড থেকে নমুনা প্রবেশ"
+    },
+    "exitRecommendation": {
+      "en": "Sample exit toward Lansdowne",
+      "bn": "ল্যান্সডাউনের দিকে নমুনা প্রস্থান"
+    },
+    "bestVisitTime": {
+      "en": "Sample suggestion: afternoon to evening",
+      "bn": "নমুনা পরামর্শ: বিকেল থেকে সন্ধ্যা"
+    },
+    "accessibility": {
+      "wheelchairAccess": true,
+      "seniorFriendly": true,
+      "crowdLevel": "medium"
+    },
     "images": [],
     "officialLinks": {},
     "popularityScore": 72,
     "featured": false,
     "verified": false,
-    "sourceNote": { "en": "SAMPLE development record. Not verified for Durga Puja 2026.", "bn": "SAMPLE উন্নয়ন রেকর্ড। দুর্গাপুজো ২০২৬-এর জন্য যাচাই করা নয়।" },
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
     "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-college-square-sarbojanin",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] College Square Sarbojanin",
+      "bn": "[SAMPLE] College Square Sarbojanin"
+    },
+    "zone": "central-kolkata",
+    "locality": "College Square",
+    "categories": [
+      "barowari",
+      "community",
+      "traditional"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "central",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere",
+      "bn": "[SAMPLE] Known style: Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere"
+    },
+    "themeDescription": {
+      "en": "Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Lakeside lighting, water-reflection spectacle, and traditional central Kolkata puja atmosphere. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "College Square, Kolkata, West Bengal",
+      "bn": "College Square, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3645,
+        22.5744
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "College Square water tank",
+      "bn": "College Square water tank"
+    },
+    "nearestMetro": "Central",
+    "nearestRailwayStation": "Sealdah",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "very-high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 92,
+    "featured": true,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-mohammad-ali-park",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Mohammad Ali Park",
+      "bn": "[SAMPLE] Mohammad Ali Park"
+    },
+    "zone": "central-kolkata",
+    "locality": "Mohammad Ali Park",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "central",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Large thematic architecture and high-footfall central Kolkata pandal presentation",
+      "bn": "[SAMPLE] Known style: Large thematic architecture and high-footfall central Kolkata pandal presentation"
+    },
+    "themeDescription": {
+      "en": "Large thematic architecture and high-footfall central Kolkata pandal presentation. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Large thematic architecture and high-footfall central Kolkata pandal presentation. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Mohammad Ali Park, Kolkata, West Bengal",
+      "bn": "Mohammad Ali Park, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3597,
+        22.5804
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Mohammad Ali Park",
+      "bn": "Mohammad Ali Park"
+    },
+    "nearestMetro": "Central",
+    "nearestRailwayStation": "Sealdah",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "very-high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 91,
+    "featured": true,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-santosh-mitra-square",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Santosh Mitra Square",
+      "bn": "[SAMPLE] Santosh Mitra Square"
+    },
+    "zone": "central-kolkata",
+    "locality": "Bowbazar",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "central",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt",
+      "bn": "[SAMPLE] Known style: Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt"
+    },
+    "themeDescription": {
+      "en": "Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Mega-scale theme spectacle and crowd-puller installation in the Bowbazar belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Bowbazar, Kolkata, West Bengal",
+      "bn": "Bowbazar, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3614,
+        22.5686
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Bowbazar",
+      "bn": "Bowbazar"
+    },
+    "nearestMetro": "Central",
+    "nearestRailwayStation": "Sealdah",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "very-high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 94,
+    "featured": true,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-kashi-bose-lane",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Kashi Bose Lane",
+      "bn": "[SAMPLE] Kashi Bose Lane"
+    },
+    "zone": "north-kolkata",
+    "locality": "Kashi Bose Lane",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "north",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: North Kolkata theme-art pandal known for dense lane ambience and detailed decoration",
+      "bn": "[SAMPLE] Known style: North Kolkata theme-art pandal known for dense lane ambience and detailed decoration"
+    },
+    "themeDescription": {
+      "en": "North Kolkata theme-art pandal known for dense lane ambience and detailed decoration. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "North Kolkata theme-art pandal known for dense lane ambience and detailed decoration. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Kashi Bose Lane, Kolkata, West Bengal",
+      "bn": "Kashi Bose Lane, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3744,
+        22.5942
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Shyambazar area",
+      "bn": "Shyambazar area"
+    },
+    "nearestMetro": "Shyambazar",
+    "nearestRailwayStation": "Bagbazar",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 85,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-nalin-sarkar-street",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Nalin Sarkar Street",
+      "bn": "[SAMPLE] Nalin Sarkar Street"
+    },
+    "zone": "north-kolkata",
+    "locality": "Nalin Sarkar Street",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "north",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster",
+      "bn": "[SAMPLE] Known style: North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster"
+    },
+    "themeDescription": {
+      "en": "North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "North Kolkata lane-based theme puja in the Hatibagan-Shyambazar cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Nalin Sarkar Street, Kolkata, West Bengal",
+      "bn": "Nalin Sarkar Street, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3758,
+        22.5966
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Hatibagan area",
+      "bn": "Hatibagan area"
+    },
+    "nearestMetro": "Shyambazar",
+    "nearestRailwayStation": "Bagbazar",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 81,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-dum-dum-park-bharat-chakra",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Dum Dum Park Bharat Chakra",
+      "bn": "[SAMPLE] Dum Dum Park Bharat Chakra"
+    },
+    "zone": "north-kolkata",
+    "locality": "Dum Dum Park",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "north",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Dum Dum Park theme-art puja with high visitor interest",
+      "bn": "[SAMPLE] Known style: Dum Dum Park theme-art puja with high visitor interest"
+    },
+    "themeDescription": {
+      "en": "Dum Dum Park theme-art puja with high visitor interest. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Dum Dum Park theme-art puja with high visitor interest. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Dum Dum Park, Kolkata, West Bengal",
+      "bn": "Dum Dum Park, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.4124,
+        22.6181
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Dum Dum Park",
+      "bn": "Dum Dum Park"
+    },
+    "nearestMetro": "Belgachia",
+    "nearestRailwayStation": "Dum Dum",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 84,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-sreebhumi-sporting-club",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Sreebhumi Sporting Club",
+      "bn": "[SAMPLE] Sreebhumi Sporting Club"
+    },
+    "zone": "east-kolkata",
+    "locality": "Sreebhumi",
+    "categories": [
+      "barowari",
+      "community",
+      "theme",
+      "award-winning"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "east",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals",
+      "bn": "[SAMPLE] Known style: Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals"
+    },
+    "themeDescription": {
+      "en": "Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Mega-budget replica-style spectacle and one of Kolkata?s biggest crowd-puller pandals. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Sreebhumi, Kolkata, West Bengal",
+      "bn": "Sreebhumi, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.4048,
+        22.6041
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Sreebhumi",
+      "bn": "Sreebhumi"
+    },
+    "nearestMetro": "Belgachia",
+    "nearestRailwayStation": "Patipukur",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "very-high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 96,
+    "featured": true,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-chetla-agrani-club",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Chetla Agrani Club",
+      "bn": "[SAMPLE] Chetla Agrani Club"
+    },
+    "zone": "south-kolkata",
+    "locality": "Chetla",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: High-concept south Kolkata theme-art pandal with major visitor footfall",
+      "bn": "[SAMPLE] Known style: High-concept south Kolkata theme-art pandal with major visitor footfall"
+    },
+    "themeDescription": {
+      "en": "High-concept south Kolkata theme-art pandal with major visitor footfall. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "High-concept south Kolkata theme-art pandal with major visitor footfall. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Chetla, Kolkata, West Bengal",
+      "bn": "Chetla, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3343,
+        22.5217
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Chetla",
+      "bn": "Chetla"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "New Alipore",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "very-high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 93,
+    "featured": true,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-suruchi-sangha",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Suruchi Sangha",
+      "bn": "[SAMPLE] Suruchi Sangha"
+    },
+    "zone": "south-kolkata",
+    "locality": "New Alipore",
+    "categories": [
+      "barowari",
+      "community",
+      "theme",
+      "award-winning"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Award-winning south Kolkata theme puja known for state/culture-inspired installations",
+      "bn": "[SAMPLE] Known style: Award-winning south Kolkata theme puja known for state/culture-inspired installations"
+    },
+    "themeDescription": {
+      "en": "Award-winning south Kolkata theme puja known for state/culture-inspired installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Award-winning south Kolkata theme puja known for state/culture-inspired installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "New Alipore, Kolkata, West Bengal",
+      "bn": "New Alipore, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3319,
+        22.5101
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "New Alipore",
+      "bn": "New Alipore"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "New Alipore",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "very-high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 94,
+    "featured": true,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-tridhara-sammilani",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Tridhara Sammilani",
+      "bn": "[SAMPLE] Tridhara Sammilani"
+    },
+    "zone": "south-kolkata",
+    "locality": "Ballygunge",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster",
+      "bn": "[SAMPLE] Known style: Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster"
+    },
+    "themeDescription": {
+      "en": "Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Theme-rich south Kolkata stop in the Ballygunge-Gariahat pandal cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Ballygunge, Kolkata, West Bengal",
+      "bn": "Ballygunge, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3606,
+        22.5239
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Ballygunge",
+      "bn": "Ballygunge"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "Ballygunge Junction",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 88,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-singhi-park",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Singhi Park",
+      "bn": "[SAMPLE] Singhi Park"
+    },
+    "zone": "south-kolkata",
+    "locality": "Gariahat",
+    "categories": [
+      "barowari",
+      "community",
+      "traditional"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Classic south Kolkata puja with traditional presentation in the Gariahat cluster",
+      "bn": "[SAMPLE] Known style: Classic south Kolkata puja with traditional presentation in the Gariahat cluster"
+    },
+    "themeDescription": {
+      "en": "Classic south Kolkata puja with traditional presentation in the Gariahat cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Classic south Kolkata puja with traditional presentation in the Gariahat cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Gariahat, Kolkata, West Bengal",
+      "bn": "Gariahat, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3655,
+        22.5192
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Gariahat",
+      "bn": "Gariahat"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "Ballygunge Junction",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 87,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-mudiali-club",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Mudiali Club",
+      "bn": "[SAMPLE] Mudiali Club"
+    },
+    "zone": "south-kolkata",
+    "locality": "Tollygunge",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route",
+      "bn": "[SAMPLE] Known style: South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route"
+    },
+    "themeDescription": {
+      "en": "South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "South Kolkata theme-art puja near the Rabindra Sarobar-Mudiali route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Tollygunge, Kolkata, West Bengal",
+      "bn": "Tollygunge, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3441,
+        22.5095
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Tollygunge",
+      "bn": "Tollygunge"
+    },
+    "nearestMetro": "Rabindra Sarobar",
+    "nearestRailwayStation": "Tollygunge",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 86,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-bosepukur-sitala-mandir",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Bosepukur Sitala Mandir",
+      "bn": "[SAMPLE] Bosepukur Sitala Mandir"
+    },
+    "zone": "south-kolkata",
+    "locality": "Kasba",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Kasba theme-art puja known for creative installations",
+      "bn": "[SAMPLE] Known style: Kasba theme-art puja known for creative installations"
+    },
+    "themeDescription": {
+      "en": "Kasba theme-art puja known for creative installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Kasba theme-art puja known for creative installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Kasba, Kolkata, West Bengal",
+      "bn": "Kasba, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3821,
+        22.5194
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Kasba",
+      "bn": "Kasba"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "Ballygunge Junction",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 83,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-naktala-udayan-sangha",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Naktala Udayan Sangha",
+      "bn": "[SAMPLE] Naktala Udayan Sangha"
+    },
+    "zone": "south-kolkata",
+    "locality": "Naktala",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: South Kolkata theme puja known for concept-driven art installations",
+      "bn": "[SAMPLE] Known style: South Kolkata theme puja known for concept-driven art installations"
+    },
+    "themeDescription": {
+      "en": "South Kolkata theme puja known for concept-driven art installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "South Kolkata theme puja known for concept-driven art installations. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Naktala, Kolkata, West Bengal",
+      "bn": "Naktala, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3668,
+        22.4732
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Naktala",
+      "bn": "Naktala"
+    },
+    "nearestMetro": "Gitanjali",
+    "nearestRailwayStation": "Baghajatin",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 84,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-santoshpur-lake-pally",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Santoshpur Lake Pally",
+      "bn": "[SAMPLE] Santoshpur Lake Pally"
+    },
+    "zone": "south-kolkata",
+    "locality": "Santoshpur",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Lake-side Santoshpur theme-art puja with strong neighborhood identity",
+      "bn": "[SAMPLE] Known style: Lake-side Santoshpur theme-art puja with strong neighborhood identity"
+    },
+    "themeDescription": {
+      "en": "Lake-side Santoshpur theme-art puja with strong neighborhood identity. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Lake-side Santoshpur theme-art puja with strong neighborhood identity. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Santoshpur, Kolkata, West Bengal",
+      "bn": "Santoshpur, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3884,
+        22.4897
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Santoshpur Lake",
+      "bn": "Santoshpur Lake"
+    },
+    "nearestMetro": "Kavi Sukanta",
+    "nearestRailwayStation": "Jadavpur",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 82,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-badamtala-ashar-sangha",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Badamtala Ashar Sangha",
+      "bn": "[SAMPLE] Badamtala Ashar Sangha"
+    },
+    "zone": "south-kolkata",
+    "locality": "Kalighat",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Popular Kalighat-area theme puja in the south Kolkata walking cluster",
+      "bn": "[SAMPLE] Known style: Popular Kalighat-area theme puja in the south Kolkata walking cluster"
+    },
+    "themeDescription": {
+      "en": "Popular Kalighat-area theme puja in the south Kolkata walking cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Popular Kalighat-area theme puja in the south Kolkata walking cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Kalighat, Kolkata, West Bengal",
+      "bn": "Kalighat, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3447,
+        22.5181
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Kalighat",
+      "bn": "Kalighat"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "Lake Gardens",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 81,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-behala-nutan-dal",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Behala Nutan Dal",
+      "bn": "[SAMPLE] Behala Nutan Dal"
+    },
+    "zone": "west-kolkata",
+    "locality": "Behala",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "west",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Behala theme-art puja and major west Kolkata crowd-puller",
+      "bn": "[SAMPLE] Known style: Behala theme-art puja and major west Kolkata crowd-puller"
+    },
+    "themeDescription": {
+      "en": "Behala theme-art puja and major west Kolkata crowd-puller. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Behala theme-art puja and major west Kolkata crowd-puller. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Behala, Kolkata, West Bengal",
+      "bn": "Behala, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3118,
+        22.5016
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Behala",
+      "bn": "Behala"
+    },
+    "nearestMetro": "Behala Bazar",
+    "nearestRailwayStation": "New Alipore",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 83,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-barisha-club",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Barisha Club",
+      "bn": "[SAMPLE] Barisha Club"
+    },
+    "zone": "west-kolkata",
+    "locality": "Barisha",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "west",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: West Kolkata theme-art stop around the Barisha-Behala route",
+      "bn": "[SAMPLE] Known style: West Kolkata theme-art stop around the Barisha-Behala route"
+    },
+    "themeDescription": {
+      "en": "West Kolkata theme-art stop around the Barisha-Behala route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "West Kolkata theme-art stop around the Barisha-Behala route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Barisha, Kolkata, West Bengal",
+      "bn": "Barisha, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.2995,
+        22.4824
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Barisha",
+      "bn": "Barisha"
+    },
+    "nearestMetro": "Behala Chowrasta",
+    "nearestRailwayStation": "New Alipore",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 82,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-barisha-roy-bari",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Barisha Roy Bari",
+      "bn": "[SAMPLE] Barisha Roy Bari"
+    },
+    "zone": "west-kolkata",
+    "locality": "Barisha",
+    "categories": [
+      "bonedi-bari",
+      "heritage",
+      "traditional"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "west",
+      "heritage",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Bonedi bari heritage puja with traditional thakur dalan rituals",
+      "bn": "[SAMPLE] Known style: Bonedi bari heritage puja with traditional thakur dalan rituals"
+    },
+    "themeDescription": {
+      "en": "Bonedi bari heritage puja with traditional thakur dalan rituals. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Bonedi bari heritage puja with traditional thakur dalan rituals. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Barisha, Kolkata, West Bengal",
+      "bn": "Barisha, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3001,
+        22.4805
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Barisha",
+      "bn": "Barisha"
+    },
+    "nearestMetro": "Behala Chowrasta",
+    "nearestRailwayStation": "New Alipore",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "medium"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 79,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "slug": "sample-bhowanipore-mallick-bari",
+    "year": 2026,
+    "name": {
+      "en": "[SAMPLE] Bhowanipore Mallick Bari",
+      "bn": "[SAMPLE] Bhowanipore Mallick Bari"
+    },
+    "zone": "south-kolkata",
+    "locality": "Bhowanipore",
+    "categories": [
+      "bonedi-bari",
+      "heritage",
+      "traditional"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "heritage",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Bonedi bari heritage puja and traditional household ritual setting",
+      "bn": "[SAMPLE] Known style: Bonedi bari heritage puja and traditional household ritual setting"
+    },
+    "themeDescription": {
+      "en": "Bonedi bari heritage puja and traditional household ritual setting. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Bonedi bari heritage puja and traditional household ritual setting. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Bhowanipore, Kolkata, West Bengal",
+      "bn": "Bhowanipore, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3444,
+        22.5352
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Bhowanipore",
+      "bn": "Bhowanipore"
+    },
+    "nearestMetro": "Netaji Bhavan",
+    "nearestRailwayStation": "Park Circus",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "medium"
+    },
+    "images": [],
+    "officialLinks": {},
+    "popularityScore": 78,
+    "featured": false,
+    "verified": false,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    },
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30"
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-chaltabagan-lohapatty",
+    "name": {
+      "en": "[SAMPLE] Chaltabagan Lohapatty",
+      "bn": "[SAMPLE] Chaltabagan Lohapatty"
+    },
+    "zone": "north-kolkata",
+    "locality": "Manicktala",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "north",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Theme-art puja known for concept-driven installations in north Kolkata",
+      "bn": "[SAMPLE] Known style: Theme-art puja known for concept-driven installations in north Kolkata"
+    },
+    "themeDescription": {
+      "en": "Theme-art puja known for concept-driven installations in north Kolkata. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Theme-art puja known for concept-driven installations in north Kolkata. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Manicktala, Kolkata, West Bengal",
+      "bn": "Manicktala, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3799,
+        22.5877
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Manicktala",
+      "bn": "Manicktala"
+    },
+    "nearestMetro": "Girish Park",
+    "nearestRailwayStation": "Sealdah",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "popularityScore": 82,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-telengabagan-sarbojanin",
+    "name": {
+      "en": "[SAMPLE] Telengabagan Sarbojanin",
+      "bn": "[SAMPLE] Telengabagan Sarbojanin"
+    },
+    "zone": "north-kolkata",
+    "locality": "Ultadanga",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "north",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: North Kolkata community theme puja around the Ultadanga belt",
+      "bn": "[SAMPLE] Known style: North Kolkata community theme puja around the Ultadanga belt"
+    },
+    "themeDescription": {
+      "en": "North Kolkata community theme puja around the Ultadanga belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "North Kolkata community theme puja around the Ultadanga belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Ultadanga, Kolkata, West Bengal",
+      "bn": "Ultadanga, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3897,
+        22.5985
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Ultadanga",
+      "bn": "Ultadanga"
+    },
+    "nearestMetro": "Shyambazar",
+    "nearestRailwayStation": "Ultadanga",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "medium"
+    },
+    "popularityScore": 78,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-dum-dum-park-tarun-sangha",
+    "name": {
+      "en": "[SAMPLE] Dum Dum Park Tarun Sangha",
+      "bn": "[SAMPLE] Dum Dum Park Tarun Sangha"
+    },
+    "zone": "north-kolkata",
+    "locality": "Dum Dum Park",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "hidden-gem",
+      "north",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Colorful community theme puja in the Dum Dum Park cluster",
+      "bn": "[SAMPLE] Known style: Colorful community theme puja in the Dum Dum Park cluster"
+    },
+    "themeDescription": {
+      "en": "Colorful community theme puja in the Dum Dum Park cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Colorful community theme puja in the Dum Dum Park cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Dum Dum Park, Kolkata, West Bengal",
+      "bn": "Dum Dum Park, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.4141,
+        22.6165
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Dum Dum Park",
+      "bn": "Dum Dum Park"
+    },
+    "nearestMetro": "Belgachia",
+    "nearestRailwayStation": "Dum Dum",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "medium"
+    },
+    "popularityScore": 73,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-lake-town-adhibasi-brinda",
+    "name": {
+      "en": "[SAMPLE] Lake Town Adhibasi Brinda",
+      "bn": "[SAMPLE] Lake Town Adhibasi Brinda"
+    },
+    "zone": "north-kolkata",
+    "locality": "Lake Town",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "north",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt",
+      "bn": "[SAMPLE] Known style: Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt"
+    },
+    "themeDescription": {
+      "en": "Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Lake Town theme-art stop near the north-east Kolkata pandal-hopping belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Lake Town, Kolkata, West Bengal",
+      "bn": "Lake Town, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.4026,
+        22.6049
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Lake Town",
+      "bn": "Lake Town"
+    },
+    "nearestMetro": "Belgachia",
+    "nearestRailwayStation": "Patipukur",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "popularityScore": 83,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-samaj-sebi-sangha",
+    "name": {
+      "en": "[SAMPLE] Samaj Sebi Sangha",
+      "bn": "[SAMPLE] Samaj Sebi Sangha"
+    },
+    "zone": "south-kolkata",
+    "locality": "Lake Road",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Compact but popular Lake Road theme puja in a dense south Kolkata cluster",
+      "bn": "[SAMPLE] Known style: Compact but popular Lake Road theme puja in a dense south Kolkata cluster"
+    },
+    "themeDescription": {
+      "en": "Compact but popular Lake Road theme puja in a dense south Kolkata cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Compact but popular Lake Road theme puja in a dense south Kolkata cluster. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Lake Road, Kolkata, West Bengal",
+      "bn": "Lake Road, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3569,
+        22.5178
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Lake Road",
+      "bn": "Lake Road"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "Lake Gardens",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "popularityScore": 82,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-bosepukur-talbagan",
+    "name": {
+      "en": "[SAMPLE] Bosepukur Talbagan",
+      "bn": "[SAMPLE] Bosepukur Talbagan"
+    },
+    "zone": "south-kolkata",
+    "locality": "Kasba",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "hidden-gem",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route",
+      "bn": "[SAMPLE] Known style: Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route"
+    },
+    "themeDescription": {
+      "en": "Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Neighborhood theme puja paired naturally with the Bosepukur Sitala Mandir route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Kasba, Kolkata, West Bengal",
+      "bn": "Kasba, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3845,
+        22.5179
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Kasba",
+      "bn": "Kasba"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "Ballygunge Junction",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "medium"
+    },
+    "popularityScore": 70,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-rajdanga-naba-uday-sangha",
+    "name": {
+      "en": "[SAMPLE] Rajdanga Naba Uday Sangha",
+      "bn": "[SAMPLE] Rajdanga Naba Uday Sangha"
+    },
+    "zone": "south-kolkata",
+    "locality": "Rajdanga",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Rajdanga theme-art puja in the east-south connector belt",
+      "bn": "[SAMPLE] Known style: Rajdanga theme-art puja in the east-south connector belt"
+    },
+    "themeDescription": {
+      "en": "Rajdanga theme-art puja in the east-south connector belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Rajdanga theme-art puja in the east-south connector belt. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Rajdanga, Kolkata, West Bengal",
+      "bn": "Rajdanga, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3932,
+        22.5197
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Rajdanga",
+      "bn": "Rajdanga"
+    },
+    "nearestMetro": "Kavi Sukanta",
+    "nearestRailwayStation": "Ballygunge Junction",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "high"
+    },
+    "popularityScore": 80,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-shiv-mandir-sarbojanin",
+    "name": {
+      "en": "[SAMPLE] Shiv Mandir Sarbojanin",
+      "bn": "[SAMPLE] Shiv Mandir Sarbojanin"
+    },
+    "zone": "south-kolkata",
+    "locality": "Lake Temple Road",
+    "categories": [
+      "barowari",
+      "community",
+      "traditional"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Traditional south Kolkata puja near the Lake Temple Road route",
+      "bn": "[SAMPLE] Known style: Traditional south Kolkata puja near the Lake Temple Road route"
+    },
+    "themeDescription": {
+      "en": "Traditional south Kolkata puja near the Lake Temple Road route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Traditional south Kolkata puja near the Lake Temple Road route. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Lake Temple Road, Kolkata, West Bengal",
+      "bn": "Lake Temple Road, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3522,
+        22.5154
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Lake Temple Road",
+      "bn": "Lake Temple Road"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "Lake Gardens",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "medium"
+    },
+    "popularityScore": 76,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
+  },
+  {
+    "year": 2026,
+    "images": [],
+    "officialLinks": {},
+    "featured": false,
+    "verified": false,
+    "lastVerifiedAt": "2026-01-01T00:00:00.000+05:30",
+    "slug": "sample-66-pally-sarbojanin",
+    "name": {
+      "en": "[SAMPLE] 66 Pally Sarbojanin",
+      "bn": "[SAMPLE] 66 Pally Sarbojanin"
+    },
+    "zone": "south-kolkata",
+    "locality": "Kalighat",
+    "categories": [
+      "barowari",
+      "community",
+      "theme"
+    ],
+    "tags": [
+      "sample",
+      "famous",
+      "south",
+      "name-catalog"
+    ],
+    "themeTitle": {
+      "en": "[SAMPLE] Known style: Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir",
+      "bn": "[SAMPLE] Known style: Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir"
+    },
+    "themeDescription": {
+      "en": "Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir. Current-year 2026 theme, artist, entry, access, and timing details are pending verification.",
+      "bn": "Kalighat-area theme puja often grouped with Badamtala and Shiv Mandir. Current-year 2026 theme, artist, entry, access, and timing details are pending verification."
+    },
+    "address": {
+      "en": "Kalighat, Kolkata, West Bengal",
+      "bn": "Kalighat, Kolkata, West Bengal"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3468,
+        22.5193
+      ]
+    },
+    "nearbyLandmark": {
+      "en": "Kalighat",
+      "bn": "Kalighat"
+    },
+    "nearestMetro": "Kalighat",
+    "nearestRailwayStation": "Lake Gardens",
+    "recommendedEntry": {
+      "en": "Verify entry gates locally before visiting.",
+      "bn": "Verify entry gates locally before visiting."
+    },
+    "exitRecommendation": {
+      "en": "Follow current crowd-control instructions at the venue.",
+      "bn": "Follow current crowd-control instructions at the venue."
+    },
+    "bestVisitTime": {
+      "en": "Verify current-year timings before travel.",
+      "bn": "Verify current-year timings before travel."
+    },
+    "accessibility": {
+      "wheelchairAccess": false,
+      "seniorFriendly": false,
+      "crowdLevel": "medium"
+    },
+    "popularityScore": 79,
+    "sourceNote": {
+      "en": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing.",
+      "bn": "SAMPLE A-list catalog record. Name and known style are for discovery; verify official 2026 committee, theme, access, and location details before publishing."
+    }
   }
 ]

@@ -123,15 +123,34 @@ export function PlanClient() {
     }
 
     const controller = new AbortController();
+    let active = true;
+
     Promise.all(
       stops.map((slug) =>
         fetch(`/api/pujas/${slug}?includeUnverified=true`, {
           signal: controller.signal,
         }).then((response) => (response.ok ? response.json() : undefined)),
       ),
-    ).then((results) => setPujas(results.filter(Boolean) as Puja[]));
+    )
+      .then((results) => {
+        if (active) {
+          setPujas(results.filter(Boolean) as Puja[]);
+        }
+      })
+      .catch((error: unknown) => {
+        if (!controller.signal.aborted) {
+          setMessage(
+            error instanceof Error
+              ? error.message
+              : "Unable to load selected pujas.",
+          );
+        }
+      });
 
-    return () => controller.abort();
+    return () => {
+      active = false;
+      controller.abort("plan-stops-changed");
+    };
   }, [hydrated, stops]);
 
   const orderedPujas = useMemo(
