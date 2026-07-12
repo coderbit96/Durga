@@ -10,7 +10,7 @@ export function LanguageSwitcher() {
   const setLanguage = useLanguageStore((state) => state.setLanguage);
 
   return (
-    <label className="inline-flex items-center gap-2 rounded-md border border-border bg-surface px-2 py-1 text-sm text-muted-foreground">
+    <label className="inline-flex items-center gap-2 rounded-md border border-border bg-surface/90 px-2 py-1 text-sm text-muted-foreground">
       <Globe2 aria-hidden="true" size={16} />
       <span className="sr-only">{translate(language, "language.label")}</span>
       <select

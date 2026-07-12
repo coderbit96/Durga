@@ -307,7 +307,7 @@
       "bn": "কম স্কোরের উন্নয়ন নমুনা ঘিরে রুট।"
     },
     "description": {
-      "en": "Sample-only route for testing filters and route pages.",
+      "en": "Utility route for checking filters and route pages during QA.",
       "bn": "ফিল্টার ও রুট পেজ পরীক্ষার জন্য নমুনা রুট।"
     },
     "stops": [

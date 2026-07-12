@@ -25,12 +25,12 @@ export function PujaCard({ distanceKm, puja }: PujaCardProps) {
   const favorite = favoriteIds.includes(puja.slug);
 
   return (
-    <Card className="flex h-full flex-col">
+    <Card className="flex h-full flex-col transition duration-200 hover:-translate-y-1 hover:border-primary/55 hover:shadow-[0_22px_54px_rgba(255,208,0,0.12)]">
       <CardHeader>
         <div className="flex flex-wrap gap-2">
           {puja.tags.includes("famous") ? <Badge variant="festive">Famous</Badge> : null}
           {puja.tags.includes("hidden-gem") ? <Badge variant="teal">Hidden gem</Badge> : null}
-          {!puja.verified ? <Badge>Sample</Badge> : null}
+          {!puja.verified ? <Badge>Pending verification</Badge> : null}
         </div>
         <CardTitle>{puja.name.en}</CardTitle>
       </CardHeader>

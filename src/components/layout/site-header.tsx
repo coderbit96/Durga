@@ -22,10 +22,10 @@ export function SiteHeader() {
   const language = useLanguageStore((state) => state.language);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-border bg-surface/95 backdrop-blur">
+    <header className="sticky top-0 z-40 border-b border-primary/25 bg-[#070705]/90 backdrop-blur">
       <Container className="flex h-16 items-center justify-between gap-4">
         <Link className="flex items-center gap-2 font-semibold" href="/">
-          <span className="grid h-9 w-9 place-items-center rounded-md bg-primary text-primary-foreground">
+          <span className="grid h-9 w-9 place-items-center rounded-md bg-primary text-primary-foreground shadow-[0_0_24px_rgba(255,208,0,0.35)]">
             <Compass aria-hidden="true" size={20} />
           </span>
           <span>PujoPath Kolkata</span>
@@ -38,8 +38,8 @@ export function SiteHeader() {
               return (
                 <Link
                   className={cn(
-                    "rounded-md px-3 py-2 text-sm font-medium text-muted-foreground transition hover:bg-surface-muted hover:text-foreground",
-                    active && "bg-surface-muted text-foreground",
+                    "rounded-md px-3 py-2 text-sm font-medium text-muted-foreground transition hover:bg-primary/10 hover:text-primary",
+                    active && "bg-primary/15 text-primary",
                   )}
                   href={link.href}
                   key={link.href}

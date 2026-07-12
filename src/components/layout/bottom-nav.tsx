@@ -22,7 +22,7 @@ export function BottomNav() {
   return (
     <nav
       aria-label="Mobile primary"
-      className="fixed inset-x-0 bottom-0 z-50 border-t border-border bg-surface/95 shadow-lg backdrop-blur md:hidden"
+      className="fixed inset-x-0 bottom-0 z-50 border-t border-primary/25 bg-[#070705]/95 shadow-lg backdrop-blur md:hidden"
     >
       <div className="grid grid-cols-5">
         {links.map((link) => {
@@ -32,7 +32,7 @@ export function BottomNav() {
           return (
             <Link
               className={cn(
-                "flex min-h-16 flex-col items-center justify-center gap-1 text-xs font-medium text-muted-foreground",
+                "flex min-h-16 flex-col items-center justify-center gap-1 text-xs font-medium text-muted-foreground transition hover:text-primary",
                 active && "text-primary",
               )}
               href={link.href}

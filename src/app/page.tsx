@@ -52,7 +52,7 @@ const steps = [
 export default function Home() {
   return (
     <div>
-      <section className="border-b border-border bg-surface/85">
+      <section className="border-b border-primary/20 bg-surface/70">
         <Container className="grid gap-8 py-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-center lg:py-16">
           <div className="space-y-6">
             <Badge variant="festive">Durga Puja 2026 planner</Badge>
@@ -75,30 +75,30 @@ export default function Home() {
               <LocationAction />
             </div>
           </div>
-          <div className="relative min-h-80 overflow-hidden rounded-lg border border-border bg-[#2d1f1a] p-6 text-primary-foreground shadow-sm">
+          <div className="festival-sheen relative min-h-80 overflow-hidden rounded-lg border border-primary/35 bg-[#070705] p-6 text-foreground shadow-[0_24px_70px_rgba(255,208,0,0.12)]">
             <div className="alpana-ring absolute -right-24 -top-24 h-64 w-64 rounded-full" />
             <div className="alpana-ring absolute -bottom-20 -left-20 h-52 w-52 rounded-full" />
             <div className="relative z-10 flex h-full flex-col justify-between gap-12">
               <div>
-                <p className="text-sm uppercase tracking-wider text-[#f6d28e]">
+                <p className="text-sm uppercase tracking-wider text-primary">
                   Kolkata route board
                 </p>
                 <h2 className="mt-3 text-3xl font-semibold">Find the next stop</h2>
-                <p className="mt-2 max-w-sm text-sm leading-6 text-[#f7e8d4]">
+                <p className="mt-2 max-w-sm text-sm leading-6 text-muted-foreground">
                   Search directly, browse by zone, or start from suggested
                   routes built for busy festival evenings.
                 </p>
               </div>
               <div className="grid grid-cols-3 gap-3 text-sm">
-                <div className="rounded-md bg-white/10 p-3">
+                <div className="rounded-md border border-primary/25 bg-primary/10 p-3">
                   <MapPin aria-hidden="true" className="mb-2" size={18} />
                   Zone
                 </div>
-                <div className="rounded-md bg-white/10 p-3">
+                <div className="rounded-md border border-primary/25 bg-primary/10 p-3">
                   <CalendarDays aria-hidden="true" className="mb-2" size={18} />
                   Time
                 </div>
-                <div className="rounded-md bg-white/10 p-3">
+                <div className="rounded-md border border-primary/25 bg-primary/10 p-3">
                   <Route aria-hidden="true" className="mb-2" size={18} />
                   Route
                 </div>
@@ -119,7 +119,7 @@ export default function Home() {
           <div className="grid gap-4 md:grid-cols-2">
             {zoneCards.map((zone) => (
               <Link
-                className="group rounded-lg border border-border bg-surface p-6 shadow-sm transition hover:-translate-y-0.5 hover:border-primary/40"
+                className="group rounded-lg border border-border bg-surface/95 p-6 shadow-sm transition hover:-translate-y-1 hover:border-primary/60 hover:shadow-[0_20px_52px_rgba(255,208,0,0.12)]"
                 href={zone.href}
                 key={zone.href}
               >

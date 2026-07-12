@@ -1,18 +1,18 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fbf7ef;
-  --foreground: #211814;
-  --surface: #fffdf8;
-  --surface-muted: #f3e8d6;
-  --border: #e3d1b6;
-  --primary: #b42318;
-  --primary-foreground: #fff8ed;
-  --secondary: #126a6a;
-  --secondary-foreground: #f5fffb;
-  --accent: #d99a22;
-  --muted-foreground: #6d5b4f;
-  --ring: #b42318;
+  --background: #080806;
+  --foreground: #fff8d6;
+  --surface: #15130d;
+  --surface-muted: #24200f;
+  --border: #554611;
+  --primary: #ffd000;
+  --primary-foreground: #111005;
+  --secondary: #0e0d09;
+  --secondary-foreground: #ffe777;
+  --accent: #ffae00;
+  --muted-foreground: #c8bc82;
+  --ring: #ffd000;
 }
 
 @theme inline {
@@ -33,7 +33,10 @@
 }
 
 body {
-  background: var(--background);
+  background:
+    radial-gradient(circle at 14% 12%, rgba(255, 208, 0, 0.18), transparent 28rem),
+    radial-gradient(circle at 88% 8%, rgba(255, 174, 0, 0.14), transparent 24rem),
+    linear-gradient(135deg, #080806 0%, #121008 48%, #050504 100%);
   color: var(--foreground);
   font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
 }
@@ -45,14 +48,16 @@ body::before {
   z-index: -1;
   content: "";
   background:
-    radial-gradient(circle at 12px 12px, rgba(180, 35, 24, 0.12) 2px, transparent 3px),
-    radial-gradient(circle at 32px 32px, rgba(18, 106, 106, 0.1) 2px, transparent 3px),
-    linear-gradient(135deg, rgba(217, 154, 34, 0.12), transparent 34%);
-  background-size: 44px 44px, 44px 44px, 100% 100%;
+    linear-gradient(115deg, transparent 0 42%, rgba(255, 208, 0, 0.08) 42% 44%, transparent 44% 100%),
+    radial-gradient(circle at 16px 16px, rgba(255, 208, 0, 0.18) 1px, transparent 2px),
+    radial-gradient(circle at 44px 44px, rgba(255, 248, 214, 0.09) 1px, transparent 2px);
+  background-size: 100% 100%, 56px 56px, 56px 56px;
+  animation: festive-glow 18s ease-in-out infinite alternate;
 }
 
 ::selection {
-  background: rgba(180, 35, 24, 0.18);
+  background: rgba(255, 208, 0, 0.35);
+  color: #050504;
 }
 
 *:focus-visible {
@@ -73,6 +78,42 @@ body::before {
 
 .alpana-ring {
   background:
-    radial-gradient(circle, transparent 39%, rgba(180, 35, 24, 0.2) 40% 42%, transparent 43%),
-    conic-gradient(from 45deg, rgba(217, 154, 34, 0.22), transparent 18%, rgba(18, 106, 106, 0.18) 28%, transparent 40%);
+    radial-gradient(circle, transparent 39%, rgba(255, 208, 0, 0.34) 40% 42%, transparent 43%),
+    conic-gradient(from 45deg, rgba(255, 208, 0, 0.38), transparent 18%, rgba(255, 174, 0, 0.28) 28%, transparent 40%);
+}
+
+.festival-sheen {
+  position: relative;
+  overflow: hidden;
+}
+
+.festival-sheen::after {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  content: "";
+  background: linear-gradient(110deg, transparent 20%, rgba(255, 208, 0, 0.18) 45%, transparent 70%);
+  transform: translateX(-120%);
+  animation: festival-sheen 6s ease-in-out infinite;
+}
+
+@keyframes festival-sheen {
+  0%,
+  58% {
+    transform: translateX(-120%);
+  }
+  100% {
+    transform: translateX(120%);
+  }
+}
+
+@keyframes festive-glow {
+  from {
+    opacity: 0.6;
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, -10px, 0);
+  }
 }

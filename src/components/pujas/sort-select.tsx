@@ -10,7 +10,7 @@ export function SortSelect({ onChange, value }: SortSelectProps) {
     <label className="grid gap-1 text-sm font-medium">
       Sort
       <select
-        className="min-h-11 rounded-md border border-border bg-surface px-3 text-sm outline-none focus:border-primary focus:ring-2 focus:ring-primary/20"
+        className="min-h-11 rounded-md border border-border bg-surface/90 px-3 text-sm outline-none focus:border-primary focus:ring-2 focus:ring-primary/30"
         onChange={(event) =>
           onChange(
             event.target.value as

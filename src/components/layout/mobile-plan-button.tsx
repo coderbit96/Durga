@@ -14,7 +14,7 @@ export function MobilePlanButton() {
 
   return (
     <Link
-      className="fixed bottom-20 right-4 z-50 inline-flex min-h-12 items-center gap-2 rounded-full bg-primary px-4 text-sm font-medium text-primary-foreground shadow-lg md:hidden"
+      className="fixed bottom-20 right-4 z-50 inline-flex min-h-12 items-center gap-2 rounded-full bg-primary px-4 text-sm font-semibold text-primary-foreground shadow-[0_0_28px_rgba(255,208,0,0.36)] md:hidden"
       href="/plan"
     >
       <Route aria-hidden="true" size={18} />

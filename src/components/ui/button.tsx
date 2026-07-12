@@ -8,11 +8,13 @@ import {
 import { cn } from "@/lib/utils";
 
 const variants = {
-  primary: "bg-primary text-primary-foreground hover:bg-[#951c14]",
-  secondary: "bg-secondary text-secondary-foreground hover:bg-[#0e5656]",
+  primary:
+    "bg-primary text-primary-foreground shadow-[0_0_24px_rgba(255,208,0,0.22)] hover:bg-accent",
+  secondary:
+    "border border-primary/45 bg-secondary text-secondary-foreground hover:border-primary hover:bg-surface-muted",
   outline:
-    "border border-border bg-surface text-foreground hover:border-primary/40 hover:bg-surface-muted",
-  ghost: "text-secondary hover:bg-surface-muted",
+    "border border-border bg-surface/80 text-foreground hover:border-primary/70 hover:bg-surface-muted hover:text-primary",
+  ghost: "text-primary hover:bg-primary/10",
 };
 
 type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {
@@ -31,7 +33,7 @@ export const Button = forwardRef<HTMLButtonElement, ButtonProps | ButtonAsChildP
 function Button(props, ref) {
   const { asChild, className, variant = "primary", ...rest } = props;
   const classes = cn(
-    "inline-flex min-h-11 items-center justify-center gap-2 rounded-md px-4 py-2 text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50",
+    "inline-flex min-h-11 items-center justify-center gap-2 rounded-md px-4 py-2 text-sm font-semibold transition duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50",
     variants[variant],
     className,
   );
