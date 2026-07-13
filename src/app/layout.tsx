@@ -4,6 +4,7 @@ import { BottomNav } from "@/components/layout/bottom-nav";
 import { MobilePlanButton } from "@/components/layout/mobile-plan-button";
 import { SiteHeader } from "@/components/layout/site-header";
 import { StoreHydrator } from "@/components/layout/store-hydrator";
+import { publicEnv } from "@/lib/public-env";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -20,7 +21,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3000"),
+  metadataBase: new URL(publicEnv.NEXT_PUBLIC_APP_URL),
   openGraph: {
     description:
       "A mobile-first Durga Puja discovery and route planning app for Kolkata pandal hopping.",

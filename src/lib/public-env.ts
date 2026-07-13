@@ -1,17 +1,28 @@
 import { z } from "zod";
 
 const emptyToUndefined = (value: unknown) => (value === "" ? undefined : value);
+const stringDefault = (fallback: string) => (value: unknown) =>
+  value === "" || value === undefined ? fallback : value;
+const numberDefault = (fallback: number) => (value: unknown) =>
+  value === "" || value === undefined ? fallback : value;
 
 const publicEnvSchema = z.object({
-  NEXT_PUBLIC_APP_URL: z
-    .preprocess(emptyToUndefined, z.url().optional())
-    .default("http://localhost:3000"),
-  NEXT_PUBLIC_DEFAULT_PUJA_YEAR: z.coerce.number().int().min(2024).default(2026),
+  NEXT_PUBLIC_APP_URL: z.preprocess(
+    stringDefault("http://localhost:3000"),
+    z.url(),
+  ),
+  NEXT_PUBLIC_DEFAULT_PUJA_YEAR: z.preprocess(
+    numberDefault(2026),
+    z.coerce.number().int().min(2024),
+  ),
   NEXT_PUBLIC_MAPS_BROWSER_KEY: z.preprocess(
     emptyToUndefined,
     z.string().min(1).optional(),
   ),
-  NEXT_PUBLIC_MAX_PLAN_STOPS: z.coerce.number().int().min(1).max(25).default(8),
+  NEXT_PUBLIC_MAX_PLAN_STOPS: z.preprocess(
+    numberDefault(8),
+    z.coerce.number().int().min(1).max(25),
+  ),
 });
 
 const parsed = publicEnvSchema.safeParse({
