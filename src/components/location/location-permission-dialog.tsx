@@ -15,8 +15,7 @@ export function LocationPermissionDialog({
   onOpenChange,
   open,
 }: LocationPermissionDialogProps) {
-  const { requestLocation, setManualLocation, state, useMockLocation } =
-    useCurrentLocation();
+  const { requestLocation, setManualLocation, state } = useCurrentLocation();
 
   return (
     <Dialog
@@ -33,11 +32,6 @@ export function LocationPermissionDialog({
           >
             Use browser location
           </Button>
-          {process.env.NODE_ENV !== "production" ? (
-            <Button onClick={useMockLocation} type="button" variant="outline">
-              Use dev mock
-            </Button>
-          ) : null}
         </div>
         <LocationStatus state={state} />
         <ManualStartLocation onSubmit={setManualLocation} />

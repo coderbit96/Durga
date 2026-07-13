@@ -11,10 +11,6 @@ const publicEnvSchema = z.object({
     emptyToUndefined,
     z.string().min(1).optional(),
   ),
-  NEXT_PUBLIC_DEV_MOCK_LOCATION: z.preprocess(
-    emptyToUndefined,
-    z.string().regex(/^-?\d+(\.\d+)?,-?\d+(\.\d+)?$/).optional(),
-  ),
   NEXT_PUBLIC_MAX_PLAN_STOPS: z.coerce.number().int().min(1).max(25).default(8),
 });
 
@@ -22,7 +18,6 @@ const parsed = publicEnvSchema.safeParse({
   NEXT_PUBLIC_APP_URL: process.env.NEXT_PUBLIC_APP_URL,
   NEXT_PUBLIC_DEFAULT_PUJA_YEAR: process.env.NEXT_PUBLIC_DEFAULT_PUJA_YEAR,
   NEXT_PUBLIC_MAPS_BROWSER_KEY: process.env.NEXT_PUBLIC_MAPS_BROWSER_KEY,
-  NEXT_PUBLIC_DEV_MOCK_LOCATION: process.env.NEXT_PUBLIC_DEV_MOCK_LOCATION,
   NEXT_PUBLIC_MAX_PLAN_STOPS: process.env.NEXT_PUBLIC_MAX_PLAN_STOPS,
 });
 

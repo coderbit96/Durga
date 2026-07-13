@@ -1,11 +1,9 @@
 "use client";
 
 import { useReducer } from "react";
-import { publicEnv } from "@/lib/public-env";
 import {
   initialLocationState,
   locationReducer,
-  parseMockLocation,
   type CurrentLocation,
 } from "./state";
 
@@ -42,17 +40,6 @@ export function useCurrentLocation() {
       return stored ? { location: stored, status: "success" as const } : initialLocationState;
     },
   );
-
-  function useMockLocation() {
-    const mock = parseMockLocation(publicEnv.NEXT_PUBLIC_DEV_MOCK_LOCATION);
-    if (!mock) {
-      dispatch({ error: "Mock location is not configured.", type: "unavailable" });
-      return;
-    }
-
-    writeStoredLocation(mock);
-    dispatch({ location: mock, type: "success" });
-  }
 
   function requestLocation(options: LocationOptions = {}) {
     if (!navigator.geolocation) {
@@ -99,6 +86,5 @@ export function useCurrentLocation() {
     requestLocation,
     setManualLocation,
     state,
-    useMockLocation,
   };
 }

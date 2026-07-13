@@ -361,11 +361,6 @@ export function PlanClient() {
               >
                 Use current location
               </Button>
-              {process.env.NODE_ENV !== "production" ? (
-                <Button onClick={location.useMockLocation} type="button" variant="outline">
-                  Use dev mock
-                </Button>
-              ) : null}
             </div>
             <LocationStatus state={location.state} />
             <ManualStartLocation

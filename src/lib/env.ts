@@ -19,10 +19,6 @@ const envSchema = z.object({
     emptyToUndefined,
     z.string().min(1).optional(),
   ),
-  NEXT_PUBLIC_DEV_MOCK_LOCATION: z.preprocess(
-    emptyToUndefined,
-    z.string().regex(/^-?\d+(\.\d+)?,-?\d+(\.\d+)?$/).optional(),
-  ),
   NEXT_PUBLIC_MAX_PLAN_STOPS: z.coerce.number().int().min(1).max(25).default(8),
   SHARED_PLAN_TTL_HOURS: z.coerce.number().int().min(1).max(720).default(72),
 });

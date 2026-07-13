@@ -2,7 +2,6 @@ import { describe, expect, it } from "vitest";
 import {
   initialLocationState,
   locationReducer,
-  parseMockLocation,
 } from "./state";
 
 describe("location state", () => {
@@ -29,13 +28,5 @@ describe("location state", () => {
     expect(locationReducer(initialLocationState, { type: "timeout" }).status).toBe(
       "timeout",
     );
-  });
-
-  it("parses non-production mock locations", () => {
-    expect(parseMockLocation("22.57,88.36")).toMatchObject({
-      latitude: 22.57,
-      longitude: 88.36,
-      source: "mock",
-    });
   });
 });

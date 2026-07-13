@@ -12,7 +12,7 @@ export type CurrentLocation = {
   label?: string;
   latitude: number;
   longitude: number;
-  source: "browser" | "manual" | "mock";
+  source: "browser" | "manual";
 };
 
 export type LocationState = {
@@ -59,26 +59,4 @@ export function locationReducer(
     default:
       return state;
   }
-}
-
-export function parseMockLocation(value?: string) {
-  if (!value || process.env.NODE_ENV === "production") {
-    return undefined;
-  }
-
-  const [latitude, longitude] = value.split(",").map(Number);
-  if (!Number.isFinite(latitude) || !Number.isFinite(longitude)) {
-    return undefined;
-  }
-
-  if (latitude < -90 || latitude > 90 || longitude < -180 || longitude > 180) {
-    return undefined;
-  }
-
-  return {
-    label: "Development mock location",
-    latitude,
-    longitude,
-    source: "mock" as const,
-  };
 }

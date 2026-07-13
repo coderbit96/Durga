@@ -49,7 +49,6 @@ from client components. Client-safe values live in `src/lib/public-env.ts`.
 | `MAP_PROVIDER` | `mock`, `osm`, `none`, `google`, or `mapbox`. Defaults to `mock`. |
 | `MAPS_SERVER_API_KEY` | Server-only map key. Never expose to browser code. |
 | `NEXT_PUBLIC_MAPS_BROWSER_KEY` | Browser-safe map key when maps are enabled. |
-| `NEXT_PUBLIC_DEV_MOCK_LOCATION` | Non-production mock start location as `lat,lng`. |
 | `SHARED_PLAN_TTL_HOURS` | Shared plan expiration window. Defaults to `72`. |
 | `NEXT_PUBLIC_DEFAULT_PUJA_YEAR` | Default Puja year shown by client code. |
 | `NEXT_PUBLIC_MAX_PLAN_STOPS` | Client route stop limit. Defaults to `8`. |

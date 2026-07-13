@@ -31,8 +31,7 @@ export function SinglePandalDirections({
   destination,
   destinationName,
 }: SinglePandalDirectionsProps) {
-  const { requestLocation, setManualLocation, state, useMockLocation } =
-    useCurrentLocation();
+  const { requestLocation, setManualLocation, state } = useCurrentLocation();
   const [mode, setMode] = useState<AppTravelMode>("walking");
   const [result, setResult] = useState<RouteResponse | null>(null);
   const [loading, setLoading] = useState(false);
@@ -40,7 +39,7 @@ export function SinglePandalDirections({
 
   async function calculateRoute() {
     if (!state.location) {
-      setError("Choose a browser, mock, or manual start location first.");
+      setError("Choose a browser or manual start location first.");
       return;
     }
 
@@ -109,11 +108,6 @@ export function SinglePandalDirections({
           >
             Use current location
           </Button>
-          {process.env.NODE_ENV !== "production" ? (
-            <Button onClick={useMockLocation} type="button" variant="outline">
-              Use dev mock
-            </Button>
-          ) : null}
         </div>
         <LocationStatus state={state} />
         <ManualStartLocation onSubmit={setManualLocation} />
