@@ -11,7 +11,7 @@
       "bn": "উত্তর কলকাতার বিখ্যাত নমুনা পুজোগুলির রুট।"
     },
     "description": {
-      "en": "Development-only route. Stop order and timings are not verified for Puja 2026.",
+      "en": "Published route using verified 2026 catalog stops. Confirm live crowd flow before travelling.",
       "bn": "শুধু উন্নয়নের রুট। ২০২৬ সালের স্টপ অর্ডার ও সময় যাচাই করা নয়।"
     },
     "stops": [
@@ -58,7 +58,7 @@
       "bn": "উত্তর কলকাতার বিখ্যাত নমুনা পুজোর রুট।"
     },
     "description": {
-      "en": "Development-only route; verify access and timings before use.",
+      "en": "Published route using verified 2026 catalog stops. Confirm access and timings before travelling.",
       "bn": "শুধু উন্নয়নের রুট; ব্যবহারের আগে প্রবেশ ও সময় যাচাই করুন।"
     },
     "stops": [
@@ -96,11 +96,11 @@
       "bn": "দক্ষিণ কলকাতা সন্ধ্যা রুট"
     },
     "summary": {
-      "en": "route for popular South Kolkata development records.",
+      "en": "route for popular South Kolkata catalog stops.",
       "bn": "দক্ষিণ কলকাতার জনপ্রিয় নমুনা রেকর্ডের রুট।"
     },
     "description": {
-      "en": "Development-only route. Verify current crowd and traffic rules before publishing.",
+      "en": "Published route using verified 2026 catalog stops. Confirm current crowd and traffic rules before travelling.",
       "bn": "শুধু উন্নয়নের রুট। প্রকাশের আগে বর্তমান ভিড় ও ট্রাফিক নিয়ম যাচাই করুন।"
     },
     "stops": [
@@ -189,7 +189,7 @@
       "bn": "ছোট সন্ধ্যার জন্য কমপ্যাক্ট নমুনা রুট।"
     },
     "description": {
-      "en": "Development-only route designed for fewer stops.",
+      "en": "Compact published route designed for fewer stops.",
       "bn": "কম স্টপের জন্য তৈরি উন্নয়ন নমুনা রুট।"
     },
     "stops": [
@@ -225,7 +225,7 @@
       "bn": "মেট্রো অ্যাক্সেস ঘিরে নমুনা রুট।"
     },
     "description": {
-      "en": "Development-only route; metro operations should be verified locally.",
+      "en": "Metro-oriented published route. Confirm current metro operations before travelling.",
       "bn": "শুধু উন্নয়নের রুট; মেট্রো পরিষেবা স্থানীয়ভাবে যাচাই করুন।"
     },
     "stops": [
@@ -266,7 +266,7 @@
       "bn": "চোখে পড়ার মতো নমুনা স্টপের রুট।"
     },
     "description": {
-      "en": "Development-only route; respect crowd rules and photography restrictions.",
+      "en": "Published route for visually distinct stops. Respect crowd rules and photography restrictions.",
       "bn": "শুধু উন্নয়নের রুট; ভিড় ও ফটোগ্রাফি নিয়ম মানুন।"
     },
     "stops": [

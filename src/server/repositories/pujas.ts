@@ -37,15 +37,15 @@ type LeanRoute = Omit<SuggestedRouteDocument, "createdAt" | "updatedAt"> & {
   updatedAt: Date | string;
 };
 
-const sampleTimestamp = "2026-01-01T00:00:00.000+05:30";
+const bundledCatalogTimestamp = "2026-07-13T00:00:00.000+05:30";
 
 function samplePujaRecords() {
   return samplePujas
     .map((record) => pujaSeedRecordSchema.parse(record))
     .map((record) => ({
       ...record,
-      createdAt: sampleTimestamp,
-      updatedAt: sampleTimestamp,
+      createdAt: bundledCatalogTimestamp,
+      updatedAt: bundledCatalogTimestamp,
     }));
 }
 
@@ -54,8 +54,8 @@ function sampleRouteRecords() {
     .map((record) => suggestedRouteSeedRecordSchema.parse(record))
     .map((record) => ({
       ...record,
-      createdAt: sampleTimestamp,
-      updatedAt: sampleTimestamp,
+      createdAt: bundledCatalogTimestamp,
+      updatedAt: bundledCatalogTimestamp,
     }));
 }
 
@@ -93,7 +93,7 @@ function usesBundledCatalog() {
 }
 
 function allowsUnverified(query: PublicPujaListQuery) {
-  return usesBundledCatalog() || query.includeUnverified;
+  return query.includeUnverified;
 }
 
 function buildPujaFilters(query: PublicPujaListQuery) {

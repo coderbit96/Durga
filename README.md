@@ -127,8 +127,8 @@ The seed script never deletes production data by default. The optional
 npm run data:seed -- --replace --confirm-replace
 ```
 
-Public APIs hide unverified pujas by default. During development only, pass
-`includeUnverified=true` to inspect draft/sample data.
+Public APIs hide unverified pujas by default. Use the versioned catalog files
+and seed script to publish verified Puja records.
 
 ## Privacy and Safety
 

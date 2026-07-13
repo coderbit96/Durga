@@ -26,7 +26,7 @@ export function FavoritesClient() {
     const controller = new AbortController();
     Promise.all(
       ids.map((slug) =>
-        fetch(`/api/pujas/${slug}?includeUnverified=true`, {
+        fetch(`/api/pujas/${slug}`, {
           signal: controller.signal,
         }).then((response) => (response.ok ? response.json() : undefined)),
       ),

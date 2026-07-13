@@ -45,9 +45,7 @@ function formatDate(value: string) {
 
 async function loadPuja(slug: string) {
   try {
-    return await getPujaBySlug(slug, {
-      includeUnverified: true,
-    });
+    return await getPujaBySlug(slug);
   } catch (error) {
     if (error instanceof Error && error.message === "NOT_FOUND") {
       notFound();

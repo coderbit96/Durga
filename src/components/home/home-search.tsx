@@ -29,7 +29,6 @@ export function HomeSearch() {
 
       try {
         const params = new URLSearchParams({
-          includeUnverified: "true",
           limit: "5",
           search: query,
         });

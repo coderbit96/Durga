@@ -127,7 +127,7 @@ export function PlanClient() {
 
     Promise.all(
       stops.map((slug) =>
-        fetch(`/api/pujas/${slug}?includeUnverified=true`, {
+        fetch(`/api/pujas/${slug}`, {
           signal: controller.signal,
         }).then((response) => (response.ok ? response.json() : undefined)),
       ),

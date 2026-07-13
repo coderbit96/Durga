@@ -45,7 +45,6 @@ export default async function SuggestedRoutePage({ params }: RoutePageProps) {
   const { slug } = await params;
   const route = await loadRoute(slug);
   const pujas = await listPujas({
-    includeUnverified: true,
     limit: 50,
     year: route.year,
   });

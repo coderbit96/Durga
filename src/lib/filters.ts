@@ -57,7 +57,6 @@ export function apiParamsFromFilters(
   const params = serializePujaFilters(filters);
   params.set("zone", zone);
   params.set("limit", "9");
-  params.set("includeUnverified", "true");
 
   if (
     filters.sort === "nearest" &&
