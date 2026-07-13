@@ -1,6 +1,6 @@
 "use client";
 
-import { useReducer } from "react";
+import { useEffect, useReducer } from "react";
 import {
   initialLocationState,
   locationReducer,
@@ -21,8 +21,25 @@ function readStoredLocation() {
 
   try {
     const raw = window.sessionStorage.getItem(storageKey);
-    return raw ? (JSON.parse(raw) as CurrentLocation) : undefined;
+    if (!raw) {
+      return undefined;
+    }
+
+    const parsed = JSON.parse(raw) as Partial<CurrentLocation>;
+    if (
+      typeof parsed.latitude !== "number" ||
+      typeof parsed.longitude !== "number" ||
+      !Number.isFinite(parsed.latitude) ||
+      !Number.isFinite(parsed.longitude) ||
+      (parsed.source !== "browser" && parsed.source !== "manual")
+    ) {
+      window.sessionStorage.removeItem(storageKey);
+      return undefined;
+    }
+
+    return parsed as CurrentLocation;
   } catch {
+    window.sessionStorage.removeItem(storageKey);
     return undefined;
   }
 }
@@ -32,14 +49,14 @@ function writeStoredLocation(location: CurrentLocation) {
 }
 
 export function useCurrentLocation() {
-  const [state, dispatch] = useReducer(
-    locationReducer,
-    initialLocationState,
-    () => {
-      const stored = readStoredLocation();
-      return stored ? { location: stored, status: "success" as const } : initialLocationState;
-    },
-  );
+  const [state, dispatch] = useReducer(locationReducer, initialLocationState);
+
+  useEffect(() => {
+    const stored = readStoredLocation();
+    if (stored) {
+      dispatch({ location: stored, type: "success" });
+    }
+  }, []);
 
   function requestLocation(options: LocationOptions = {}) {
     if (!navigator.geolocation) {
