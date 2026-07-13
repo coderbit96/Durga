@@ -93,7 +93,7 @@ function usesBundledCatalog() {
 }
 
 function allowsUnverified(query: PublicPujaListQuery) {
-  return usesBundledCatalog() || (query.includeUnverified && process.env.NODE_ENV !== "production");
+  return usesBundledCatalog() || query.includeUnverified;
 }
 
 function buildPujaFilters(query: PublicPujaListQuery) {

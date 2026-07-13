@@ -46,7 +46,7 @@ function formatDate(value: string) {
 async function loadPuja(slug: string) {
   try {
     return await getPujaBySlug(slug, {
-      includeUnverified: process.env.NODE_ENV !== "production",
+      includeUnverified: true,
     });
   } catch (error) {
     if (error instanceof Error && error.message === "NOT_FOUND") {
