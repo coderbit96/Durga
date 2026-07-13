@@ -88,8 +88,12 @@ export function normalizeRoute(doc: LeanRoute): SuggestedRoute {
   };
 }
 
+function usesBundledCatalog() {
+  return !process.env.MONGODB_URI;
+}
+
 function allowsUnverified(query: PublicPujaListQuery) {
-  return query.includeUnverified && process.env.NODE_ENV !== "production";
+  return usesBundledCatalog() || (query.includeUnverified && process.env.NODE_ENV !== "production");
 }
 
 function buildPujaFilters(query: PublicPujaListQuery) {
@@ -283,20 +287,26 @@ function listSamplePujas(query: PublicPujaListQuery) {
 function shouldFallback(error: unknown) {
   const message = error instanceof Error ? error.message : "";
   return (
-    process.env.NODE_ENV !== "production" &&
-    [
-      "MongoDB connection failed",
-      "before initial connection is complete",
-      "ECONNREFUSED",
-      "querySrv",
-      "ENOTFOUND",
-      "ETIMEDOUT",
-    ].some((fragment) => message.includes(fragment))
+    usesBundledCatalog() ||
+    (process.env.NODE_ENV !== "production" &&
+      [
+        "MONGODB_URI is required",
+        "MongoDB connection failed",
+        "before initial connection is complete",
+        "ECONNREFUSED",
+        "querySrv",
+        "ENOTFOUND",
+        "ETIMEDOUT",
+      ].some((fragment) => message.includes(fragment)))
   );
 }
 
 export async function listPujas(input: unknown) {
   const query = apiListQuerySchema.parse(input);
+  if (usesBundledCatalog()) {
+    return listSamplePujas(query);
+  }
+
   const skip = (query.page - 1) * query.limit;
   const { countFilter, findFilter } = buildPujaFilters(query);
   const sort = buildPujaSort(query);
@@ -334,6 +344,21 @@ export async function listPujas(input: unknown) {
 
 export async function getPujaBySlug(slug: string, input: unknown = {}) {
   const query = apiDetailQuerySchema.parse(input);
+
+  if (usesBundledCatalog()) {
+    const item = samplePujaRecords().find((puja) => {
+      if (puja.slug !== slug) {
+        return false;
+      }
+      return query.year ? puja.year === query.year : true;
+    });
+
+    if (!item) {
+      throw new Error("NOT_FOUND");
+    }
+
+    return item;
+  }
 
   const filter: MongoFilter = { slug };
   if (query.year) {
@@ -381,6 +406,26 @@ export async function listSuggestedRoutes(input: unknown) {
   const query = apiRoutesListQuerySchema.parse(input);
   const skip = (query.page - 1) * query.limit;
   const filter: MongoFilter = {};
+
+  if (usesBundledCatalog()) {
+    let items = sampleRouteRecords();
+    if (query.year) {
+      items = items.filter((route) => route.year === query.year);
+    }
+    if (query.zone) {
+      items = items.filter((route) => route.zone === query.zone);
+    }
+    const total = items.length;
+    return {
+      items: items.slice(skip, skip + query.limit),
+      meta: {
+        limit: query.limit,
+        page: query.page,
+        total,
+        totalPages: Math.ceil(total / query.limit),
+      },
+    };
+  }
 
   if (query.year) {
     filter.year = query.year;
@@ -439,6 +484,21 @@ export async function listSuggestedRoutes(input: unknown) {
 export async function getSuggestedRouteBySlug(slug: string, input: unknown = {}) {
   const query = apiRouteDetailQuerySchema.parse(input);
   const filter: MongoFilter = { slug };
+
+  if (usesBundledCatalog()) {
+    const item = sampleRouteRecords().find((route) => {
+      if (route.slug !== slug) {
+        return false;
+      }
+      return query.year ? route.year === query.year : true;
+    });
+
+    if (!item) {
+      throw new Error("NOT_FOUND");
+    }
+
+    return item;
+  }
 
   if (query.year) {
     filter.year = query.year;
